@@ -1,0 +1,350 @@
+//Top Logo
+.logo {
+  background-color: #000;
+  min-height: 55px;
+  padding: 10px;
+
+  .imgAndTitle {
+    display: flex;
+    left: 45%;
+    position: absolute;
+
+    img {
+      height: 55px;
+      margin-right: 20px;
+    }
+    a {
+      color: #fff;
+      font-size: 25px;
+      font-weight: bold;
+      margin: 10px;
+      text-decoration: none;
+    }
+  }
+}
+
+// Hero display
+.hero {
+  align-items: center;
+  background-image: url("https://www.nps.gov/common/uploads/banner_image/nri/secondary/0ACFD6D4-1DD8-B71B-0BA0CD6D5BA0F92A.jpg?width=2400&height=400&mode=crop&quality=90");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 120px 35px;
+  width: 100%;
+
+  .title {
+    color: #fff;
+    font-size: 40px;
+    margin: 15px;
+    text-align: center;
+    width: 100%;
+  }
+}
+
+// Park Cards
+.parkList {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-gap: 15px;
+  margin: 15px auto;
+  padding: 10px;
+  width: 90%;
+
+  .park {
+    border: 1px solid #000;
+    border-radius: 12px;
+    font-family: "PT-Sans";
+    margin-bottom: 20px;
+
+    .parkHeading {
+      background-color: #d7aa7a;
+      border-top-left-radius: 12px;
+      border-top-right-radius: 12px;
+      color: #fff;
+      font-size: 24px;
+      font-weight: bold;
+      min-height: 120px;
+      padding: 10px;
+      text-align: center;
+    }
+    .parkDetails {
+      font-size: 18px;
+      margin: 0 5px;
+      padding: 0 20px;
+
+      .parkDescription {
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+        display: -webkit-box;
+        font-style: italic;
+        overflow: hidden;
+      }
+      .parkImg {
+        margin-top: 20px;
+        min-height: 212px;
+        width: 100%;
+      }
+      .parkURL a {
+        color: #d7aa7a;
+        font-weight: bold;
+      }
+      .parkActivities ul {
+        margin-top: 5px;
+      }
+    }
+  }  
+}
+
+// Footer
+.footer {
+  background-color: #000;
+  min-height: 40px;
+  padding: 10px;
+
+  .title {
+    width: 100%;
+
+    h2 {
+      color: #fff;
+      margin-top: 5px;
+      text-align: center;
+      text-transform: uppercase;
+    }
+  }
+  
+  .legalAndSocial{
+    display: flex;
+
+    .legal {
+      color: #fff;
+      font-size: 18px;
+      margin: 30px 10px 0 20px;
+      width: 78%;
+      
+      a {
+        color: #fff;
+        text-align: left;
+        text-decoration: none;
+        margin-right: 5px;
+        margin-bottom: 0px;
+      }
+    }
+    .social {
+      align-items: flex-end;
+      margin-top: 30px;
+      width: 20%;
+      
+      a {
+        color: #fff;
+        margin: 10px;
+      }
+    }
+  }
+  .copyright{
+    color: #fff;
+    margin-left: 20px;
+    margin-top: 0;
+    text-align: left;
+    width: 100%;
+  }
+  
+}
+
+//Media Queries
+@media (max-width:4000px){
+  .logo .imgAndTitle a{
+    font-size: 30px;
+  }
+  .hero .title{
+    font-size: 50px;
+  }
+  .parkList .park {
+    .parkHeading {
+      font-size: 35px;
+      min-height: 83px;
+    }
+    .parkDetails {
+      font-size: 25px;
+
+      .parkImg{
+        min-height: 633px;
+      }
+    }
+  }
+  /* .footer {
+    .legal{
+      font-size: 25px;
+    }
+    .title h2{
+      font-size: 30px;
+    }
+  } */
+}
+
+@media (max-width: 3120px){
+  .parkList .park {
+    .parkHeading {
+      min-height: 172px;
+    }
+    .parkDetails .parkImg{
+      min-height: 483px;
+    }
+  }
+}
+
+@media (max-width: 2200px){
+  .logo .imgAndTitle{
+    left: 40%;
+  }
+  .parkList .park .parkDetails .parkImg{
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 1813px){
+  .parkList .park {
+    .parkHeading {
+      font-size: 30px;   
+    }
+    .parkDetails .parkImg{
+      min-height: 262px;
+    }
+  }
+}
+
+@media  (max-width: 1699px){
+  /* .footer .legal{
+    width: 30%;
+  } */
+}
+
+@media (max-width: 1499px){
+  /* .footer .legal{
+    width: 35%;
+  } */
+}
+
+@media (max-width: 1460px){
+  .parkList .park {
+    .parkHeading {
+      font-size: 20px;
+      min-height: 100px;   
+    }
+    .parkDetails{
+      font-size: 18px;
+
+      .parkImg{
+        min-height: 198px;
+      }
+    }
+  }
+
+}
+
+@media (max-width: 1300px){
+ .parkList{
+   grid-gap: 10px;
+   margin: 0;
+   width: 96%;
+ }
+}
+
+@media (max-width:1399px){
+  /* .footer {
+    .legal{
+      width: 44%;
+    }
+  } */
+}
+
+@media (max-width: 1199px){
+  
+  .parkList {
+    grid-template-columns: 32% 32% 32%;
+
+    .park .parkDetails .parkImg{
+      min-height: 229px;
+    }
+  }
+}
+
+@media (max-width:924px){
+
+}
+
+@media (max-width: 850px){
+  .logo .imgAndTitle{
+    left: 30%;
+  }
+  .hero .title{
+    font-size: 30px;
+  }
+  .parkList .park .parkDetails {
+    padding: 0 5px;
+
+    .parkImg{
+      min-height: 172px;
+    }
+  }
+  .footer .legalAndSocial .legal{
+    width: 70%;
+  }
+}
+
+@media (max-width: 767px){
+  
+  .parkList {
+    grid-template-columns: 48% 48%;
+    width: 98%;
+
+    .park .parkDetails .parkImg{
+      min-height: 240px;
+    }
+  }
+  .footer .legalAndSocial {
+    .legal{
+      width: 65%;
+    }
+    .social{
+      width: 24%;
+    }
+  }
+}
+
+@media(max-width: 669px){
+  .logo .imgAndTitle{
+    position: inherit;
+  }
+  .footer{ 
+    .legalAndSocial{
+      display: block;
+
+      .legal, .social{
+        text-align: center;
+        width: 100%;
+      }
+    }
+    .copyright{
+      text-align: center;
+      margin-top: 20px;
+    }
+  }
+}
+
+@media (max-width: 530px){
+  .parkList {
+    box-sizing: border-box;
+    display: block;
+    width: 98%;
+
+    .park .parkHeading{
+      min-height: 83px;
+    }
+  }
+}

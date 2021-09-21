@@ -1,0 +1,3729 @@
+{
+  "total": "33",
+  "limit": "12",
+  "start": "0",
+  "data": [
+    {
+      "id": "C08AD828-98FF-478E-A63C-614E7534274B",
+      "url": "https://www.nps.gov/alca/index.htm",
+      "fullName": "Alcatraz Island",
+      "parkCode": "alca",
+      "description": "Alcatraz reveals stories of American incarceration, justice, and our common humanity. This small island was once a fort, a military prison, and a maximum security federal penitentiary. In 1969, the Indians of All Tribes occupied Alcatraz for 19 months in the name of freedom and Native American civil rights. We invite you to explore Alcatraz's complex history and natural beauty.",
+      "latitude": "37.82676234",
+      "longitude": "-122.4230206",
+      "latLong": "lat:37.82676234, long:-122.4230206",
+      "activities": [
+        {
+          "id": "1DFACD97-1B9C-4F5A-80F2-05593604799E",
+          "name": "Food"
+        },
+        {
+          "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+          "name": "Wildlife Watching"
+        },
+        {
+          "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+          "name": "Birdwatching"
+        },
+        {
+          "id": "24380E3F-AD9D-4E38-BF13-C8EEB21893E7",
+          "name": "Shopping"
+        },
+        {
+          "id": "467DC8B8-0B7D-436D-A026-80A22358F615",
+          "name": "Bookstore and Park Store"
+        }
+      ],
+      "topics": [
+        {
+          "id": "7F12224B-217A-4B07-A4A2-636B1CE7F221",
+          "name": "Colonization and Settlement"
+        },
+        {
+          "id": "988B4AFC-F478-4673-B66D-E6BDB0CCFF35",
+          "name": "Forts"
+        },
+        {
+          "id": "351EE154-87AA-46B0-BBA1-ED604368ACE9",
+          "name": "Incarceration"
+        },
+        {
+          "id": "50A3D2B2-C922-4749-89F1-E986A5D520AC",
+          "name": "Jails and Prisons"
+        },
+        {
+          "id": "4C9D4777-A9DA-47D1-A0B9-F4A3C98BC1B3",
+          "name": "Maritime"
+        },
+        {
+          "id": "7424754D-EB8B-4608-A69A-50D44992931B",
+          "name": "Maritime - Military"
+        },
+        {
+          "id": "263BAC6E-4DEC-47E4-909D-DA8AD351E06E",
+          "name": "Lighthouses"
+        },
+        {
+          "id": "4B3CD083-7500-434B-A8C2-D355925E0245",
+          "name": "Medicine"
+        },
+        {
+          "id": "97716EF5-D001-449C-993A-EC15AB8FD345",
+          "name": "Hospital"
+        },
+        {
+          "id": "3B0D607D-9933-425A-BFA0-21529AC4734C",
+          "name": "Military"
+        },
+        {
+          "id": "97CCB419-196C-4B95-BB3A-621458F78415",
+          "name": "US Army"
+        },
+        {
+          "id": "A1BAF33E-EA84-4608-A888-4CEE9541F027",
+          "name": "Native American Heritage"
+        },
+        {
+          "id": "40C0866A-3890-41A4-84CA-5935DEE181AE",
+          "name": "Social Movements"
+        },
+        {
+          "id": "27BF8807-54EA-4A3D-B073-AA7AA361CD7E",
+          "name": "Wars and Conflicts"
+        },
+        {
+          "id": "B564E9AA-95E9-4648-A7D1-48F94BFBEBB5",
+          "name": "Tribal Conflicts"
+        },
+        {
+          "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+          "name": "Animals"
+        },
+        {
+          "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+          "name": "Birds"
+        }
+      ],
+      "states": "CA",
+      "contacts": {
+        "phoneNumbers": [
+          {
+            "phoneNumber": "4155614900",
+            "description": "",
+            "extension": "",
+            "type": "Voice"
+          }
+        ],
+        "emailAddresses": [
+          {
+            "description": "",
+            "emailAddress": "goga_alca_socialmedia@nps.gov"
+          }
+        ]
+      },
+      "entranceFees": [
+        {
+          "cost": "39.90",
+          "description": "A daily scheduled ferry to Alcatraz has a round-trip fee. Reservations are strongly recommended as we often sell out. See www.alcatrazcruises.com for reservations, and ticket types and pricing.",
+          "title": "Adult Day Ticket (Ferry and audio tour)"
+        },
+        {
+          "cost": "47.30",
+          "description": "A daily scheduled ferry to Alcatraz has a round-trip fee. Reservations are strongly recommended as we often sell out. See www.alcatrazcruises.com for reservations, and ticket types and pricing.",
+          "title": "Adult Night Ticket (Ferry and audio tour)"
+        },
+        {
+          "cost": "92.30",
+          "description": "A daily scheduled ferry to Alcatraz has a round-trip fee. Reservations are strongly recommended as we often sell out. See www.alcatrazcruises.com for reservations, and ticket types and pricing.",
+          "title": "Adult Behind the Scenes Tour Ticket (Ferry and audio tour)"
+        }
+      ],
+      "entrancePasses": [],
+      "fees": [],
+      "directionsInfo": "The Alcatraz Ferry Terminal is located on The Embarcadero near the intersection of Bay Street at Pier 33.",
+      "directionsUrl": "http://home.nps.gov/alca/planyourvisit/directions.htm",
+      "operatingHours": [
+        {
+          "exceptions": [
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2022-01-01",
+              "name": "New Year's",
+              "endDate": "2022-01-01"
+            },
+            {
+              "exceptionHours": {
+                "thursday": "Closed"
+              },
+              "startDate": "2021-11-25",
+              "name": "Thanksgiving",
+              "endDate": "2021-11-25"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2021-12-25",
+              "name": "Christmas",
+              "endDate": "2021-12-25"
+            }
+          ],
+          "description": "Access to Alcatraz Island is via commercial ferry service . For ticket reservation call (415) 981-ROCK [415.981.7625] or go to www.alcatrazcruises.com. Once on the island you can stay as long as you wish up to the last ferry, which changes seasonally. Alcatraz is closed on Thanksgiving, Christmas and New Years Day. Be aware that  Alcatraz often sells out in advance. In summer and around holidays tickets can sell out a month or more in advance. Tickets go on sale 90 days in advance.",
+          "standardHours": {
+            "wednesday": "10:00AM - 9:00PM",
+            "monday": "10:00AM - 9:00PM",
+            "thursday": "10:00AM - 9:00PM",
+            "sunday": "10:00AM - 9:00PM",
+            "tuesday": "10:00AM - 9:00PM",
+            "friday": "10:00AM - 9:00PM",
+            "saturday": "10:00AM - 9:00PM"
+          },
+          "name": "Alcatraz Island"
+        }
+      ],
+      "addresses": [
+        {
+          "postalCode": "94133",
+          "city": "San Francisco Bay",
+          "stateCode": "CA",
+          "line1": "Alcatraz Island",
+          "type": "Physical",
+          "line3": "",
+          "line2": ""
+        },
+        {
+          "postalCode": "94123",
+          "city": "San Francisco",
+          "stateCode": "CA",
+          "line1": "Alcatraz Island",
+          "type": "Mailing",
+          "line3": "B201 Fort Mason",
+          "line2": "Golden Gate National Recreation Area"
+        }
+      ],
+      "images": [
+        {
+          "credit": "NPS",
+          "title": "Alcatraz Island",
+          "altText": "View of the Alcatraz Lighthouse and Island from the water",
+          "caption": "Alcatraz Island",
+          "url": "https://www.nps.gov/common/uploads/structured_data/2514A14F-D5E3-BB31-4A0C4175BF61216A.jpg"
+        },
+        {
+          "credit": "NPS / Dave Rauenbuehler",
+          "title": "Alcatraz Cellhouse",
+          "altText": "A corridor extends between two rows and three tiers of cells. Skylights let in light from overhead.",
+          "caption": "Looking down Broadway in the Alcatraz Cellhouse",
+          "url": "https://www.nps.gov/common/uploads/structured_data/5482A294-DB42-56E0-FCCCD03C986AE1DC.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "Alcatraz Rangers and Firetruck",
+          "altText": "Alcatraz Rangers and Firetruck",
+          "caption": "Alcatraz Rangers and 1934 Diamond T Firetruck",
+          "url": "https://www.nps.gov/common/uploads/structured_data/A5C1D012-1DD8-B71B-0BA00C730D46F141.jpg"
+        },
+        {
+          "credit": "NPS Photo - Golden Gate National Recreation Area, GOGA 2316a",
+          "title": "Army Prisoners in the Stockade, 1902",
+          "altText": "Army Prisoners in the Stockade, 1902",
+          "caption": "Army Prisoners in the Stockade, 1902",
+          "url": "https://www.nps.gov/common/uploads/structured_data/A61F4F58-1DD8-B71B-0B981C552798242B.jpg"
+        },
+        {
+          "credit": "Darlyne Sheppard Alcatraz Photo Collection",
+          "title": "Serving the Christmas Meal, c 1951",
+          "altText": "Cook serving Christmas dinner with menu posted above.",
+          "caption": "An inmate worker distributes trays near the steam table. Bars separate the kitchen from the mess hall.  The day’s menu, the Christmas meal, appears on a sign over his head. The menu includes consomme, stuffed celery, green olives and mixed sweet pickles,",
+          "url": "https://www.nps.gov/common/uploads/structured_data/A64B4FF8-1DD8-B71B-0B63B232325C8081.jpg"
+        }
+      ],
+      "weatherInfo": "The climate on Alcatraz is unpredictable and can change suddenly. Cold, foggy mornings may give way to sunny afternoons, which in turn can shift quickly back to more fog and blustery winds. The most pleasant weather usually occurs in spring and fall. Summers tend to be cool and foggy, winter is our rainy season. Temperatures on Alcatraz seldom rise above 75°F (24°C) or fall below 38°",
+      "name": "Alcatraz Island",
+      "designation": ""
+    },
+    {
+      "id": "2DB09FB7-0408-44C9-8083-8F50039BD6DA",
+      "url": "https://www.nps.gov/cabr/index.htm",
+      "fullName": "Cabrillo National Monument",
+      "parkCode": "cabr",
+      "description": "Climbing out of his boat and onto shore in 1542, Juan Rodriguez Cabrillo stepped into history as the first European to set foot on what is now the West Coast of the United States. In addition to telling the story of 16th century exploration, the park is home to a wealth of cultural and natural resources. Join us and embark on your own Voyage of Exploration.",
+      "latitude": "32.6722503",
+      "longitude": "-117.2415985",
+      "latLong": "lat:32.6722503, long:-117.2415985",
+      "activities": [
+        {
+          "id": "7CE6E935-F839-4FEC-A63E-052B1DEF39D2",
+          "name": "Biking"
+        },
+        {
+          "id": "8D778629-F603-4C50-A121-6F4BB2FE2C4B",
+          "name": "Road Biking"
+        },
+        {
+          "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+          "name": "Hiking"
+        },
+        {
+          "id": "B204DE60-5A24-43DD-8902-C81625A09A74",
+          "name": "Living History"
+        },
+        {
+          "id": "A8650547-1A30-4222-86C3-A7660A829670",
+          "name": "Reenactments"
+        },
+        {
+          "id": "237A1662-6018-4115-ABD1-B8CCF827E703",
+          "name": "Historic Weapons Demonstration"
+        },
+        {
+          "id": "28880A5B-3D29-41AC-BD8B-24743E7A070F",
+          "name": "First Person Interpretation"
+        },
+        {
+          "id": "DF4A35E0-7983-4A3E-BC47-F37B872B0F25",
+          "name": "Junior Ranger Program"
+        },
+        {
+          "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+          "name": "Wildlife Watching"
+        },
+        {
+          "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+          "name": "Birdwatching"
+        },
+        {
+          "id": "0C0D142F-06B5-4BE1-8B44-491B90F93DEB",
+          "name": "Park Film"
+        },
+        {
+          "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+          "name": "Museum Exhibits"
+        },
+        {
+          "id": "24380E3F-AD9D-4E38-BF13-C8EEB21893E7",
+          "name": "Shopping"
+        },
+        {
+          "id": "467DC8B8-0B7D-436D-A026-80A22358F615",
+          "name": "Bookstore and Park Store"
+        },
+        {
+          "id": "43800AD1-D439-40F3-AAB3-9FB651FE45BB",
+          "name": "Gift Shop and Souvenirs"
+        }
+      ],
+      "topics": [
+        {
+          "id": "607D41B0-F830-4C07-A557-BCEF880A3929",
+          "name": "Burial, Cemetery and Gravesite"
+        },
+        {
+          "id": "570E8E93-3A49-45FB-B11A-F2F984EAC862",
+          "name": "National Cemetery"
+        },
+        {
+          "id": "12EA2B56-17EC-410A-A10D-BFBA87A0669B",
+          "name": "Explorers and Expeditions"
+        },
+        {
+          "id": "4C9D4777-A9DA-47D1-A0B9-F4A3C98BC1B3",
+          "name": "Maritime"
+        },
+        {
+          "id": "123CE28E-0EFA-4330-8E6E-EEFF3D7BF772",
+          "name": "Coastal Defenses"
+        },
+        {
+          "id": "7424754D-EB8B-4608-A69A-50D44992931B",
+          "name": "Maritime - Military"
+        },
+        {
+          "id": "263BAC6E-4DEC-47E4-909D-DA8AD351E06E",
+          "name": "Lighthouses"
+        },
+        {
+          "id": "A079385C-3E71-4E18-9E42-B046BC22EA95",
+          "name": "Ships and Shipwrecks"
+        },
+        {
+          "id": "3B0D607D-9933-425A-BFA0-21529AC4734C",
+          "name": "Military"
+        },
+        {
+          "id": "BEB7E470-13B2-4E00-84B2-0402D98DAF69",
+          "name": "Monuments and Memorials"
+        },
+        {
+          "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+          "name": "Animals"
+        },
+        {
+          "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+          "name": "Birds"
+        },
+        {
+          "id": "0E6D8503-CB65-467F-BCD6-C6D9E28A4E0B",
+          "name": "Oceans"
+        },
+        {
+          "id": "980D1693-65BF-4F29-8182-7BAC9796E605",
+          "name": "Whales"
+        },
+        {
+          "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+          "name": "Scenic Views"
+        }
+      ],
+      "states": "CA",
+      "contacts": {
+        "phoneNumbers": [
+          {
+            "phoneNumber": "6195234285",
+            "description": "",
+            "extension": "",
+            "type": "Voice"
+          }
+        ],
+        "emailAddresses": [
+          {
+            "description": "",
+            "emailAddress": "cabr_info@nps.gov"
+          }
+        ]
+      },
+      "entranceFees": [
+        {
+          "cost": "20.00",
+          "description": "The pass is valid for seven full days.",
+          "title": "Cabrillo Entrance Fee - Per non commercial vehicle"
+        },
+        {
+          "cost": "15.00",
+          "description": "The pass is valid for seven full days.",
+          "title": "Cabrillo Entrance Fee - per motorcycle"
+        },
+        {
+          "cost": "10.00",
+          "description": "The pass is valid for seven full days.",
+          "title": "Cabrillo Entrance Fee - per walker or bicyclist"
+        },
+        {
+          "cost": "30.00",
+          "description": "Cabrillo National Monument welcomes your commercial tour group. A \"commercial tour\" is defined as an organized tour that is booked and paid through a third party. Your group is welcome to come whenever it's convenient for you (no reservations are necessary), and we have plenty of bus parking available.\n\n\"Passenger Capacity\" is based on the number of seats on the vehicle, rather than number of actual passengers.\n\nThe commercial pass is only valid for one visit.",
+          "title": "Cabrillo Entrance Fee - per commercical vehicle 1-6 Passenger Capacity*"
+        },
+        {
+          "cost": "45.00",
+          "description": "Cabrillo National Monument welcomes your commercial tour group. A \"commercial tour\" is defined as an organized tour that is booked and paid through a third party. Your group is welcome to come whenever it's convenient for you (no reservations are necessary), and we have plenty of bus parking available.\n\n\"Passenger Capacity\" is based on the number of seats on the vehicle, rather than number of actual passengers.\n\nThe commercial pass is only valid for one visit.",
+          "title": "Cabrillo Entrance Fee - per commercial vehicle 7-25 Passenger Capacity*"
+        },
+        {
+          "cost": "100.00",
+          "description": "Cabrillo National Monument welcomes your commercial tour group. A \"commercial tour\" is defined as an organized tour that is booked and paid through a third party. Your group is welcome to come whenever it's convenient for you (no reservations are necessary), and we have plenty of bus parking available.\n\n\"Passenger Capacity\" is based on the number of seats on the vehicle, rather than number of actual passengers.\n\nThe commercial pass is only valid for one visit.",
+          "title": "Cabrillo Entrance Fee - per commercial vehicle 26+ Passenger Capacity*"
+        }
+      ],
+      "entrancePasses": [
+        {
+          "cost": "35.00",
+          "description": "Valid for 12 months from purchase date. Admits the pass holder(s) and passengers in a non-commercial vehicle (14 passenger capacity or less) to Cabrillo National Monument. The pass is available at the Entrance Station.\n\nPark passes are available at the Entrance Station until 4:20pm.",
+          "title": "Cabrillo Annual Pass"
+        }
+      ],
+      "fees": [],
+      "directionsInfo": "FROM DOWNTOWN SAN DIEGO Take Harbor Drive past the airport Turn left onto Rosecrans Street Turn right onto Canon Street Turn left onto Catalina Blvd. (also known as Cabrillo Memorial Drive) Follow Catalina Blvd. all the way to the end",
+      "directionsUrl": "http://www.nps.gov/cabr/planyourvisit/directionstocabr.htm",
+      "operatingHours": [
+        {
+          "exceptions": [],
+          "description": "The park is open 365 days a year including holidays from 9 am until 5 pm. \nThe Bayside Trail closes at 4pm and the tidepools close at 4:30pm.",
+          "standardHours": {
+            "wednesday": "9:00AM - 5:00PM",
+            "monday": "9:00AM - 5:00PM",
+            "thursday": "9:00AM - 5:00PM",
+            "sunday": "9:00AM - 5:00PM",
+            "tuesday": "9:00AM - 5:00PM",
+            "friday": "9:00AM - 5:00PM",
+            "saturday": "9:00AM - 5:00PM"
+          },
+          "name": "Cabriilo National Monument"
+        }
+      ],
+      "addresses": [
+        {
+          "postalCode": "92106",
+          "city": "San Diego",
+          "stateCode": "CA",
+          "line1": "1800 Cabrillo Memorial Drive",
+          "type": "Physical",
+          "line3": "",
+          "line2": ""
+        },
+        {
+          "postalCode": "92106",
+          "city": "San Diego",
+          "stateCode": "CA",
+          "line1": "1800 Cabrillo Memorial Drive",
+          "type": "Mailing",
+          "line3": "",
+          "line2": ""
+        }
+      ],
+      "images": [
+        {
+          "credit": "NPS Photo / Dan Zeller",
+          "title": "Rocky Intertidal Zone",
+          "altText": "Tidepools at Cabrillo",
+          "caption": "Low Tide at the Tidepools",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C83BD0E-1DD8-B71B-0B8A7140406810C6.jpg"
+        },
+        {
+          "credit": "NPS Photo / Mike Nelson",
+          "title": "Sunset at Cabrillo",
+          "altText": "Sun setting over the Pacific",
+          "caption": "Sunset at Cabrillo",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C83BE4E-1DD8-B71B-0B056AAA8EA8AD24.jpg"
+        },
+        {
+          "credit": "NPS Photo / Mike Nelson",
+          "title": "Dusk at the Old Point Loma Lighthouse",
+          "altText": "Dusk at the Old Point Loma Lighthouse",
+          "caption": "Dusk over the Old Point Loma Lighthouse",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C83BF81-1DD8-B71B-0B1070022CDC04D6.jpg"
+        },
+        {
+          "credit": "NPS Photo / Mike Nelson",
+          "title": "Old Point Loma Lighthouse",
+          "altText": "Spring flowers in front of Old Point Loma Lighthouse",
+          "caption": "Spring flowers in front of Old Point Loma Lighthouse",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C83C0FF-1DD8-B71B-0B85BBD2186E9F44.jpg"
+        },
+        {
+          "credit": "NPS Photo / Mike Nelson",
+          "title": "View from Cabrillo",
+          "altText": "Looking out on San Diego from Cabrillo",
+          "caption": "View looking over to Coronado from Cabrillo",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C83C25D-1DD8-B71B-0B0658E975DC56A4.jpg"
+        },
+        {
+          "credit": "NPS Photo / Bill Griswold",
+          "title": "Pelican Point",
+          "altText": "View of Pelican Point at Cabrillo",
+          "caption": "Pelican Point at Cabrillo National Monument",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C83C3FC-1DD8-B71B-0B5EECDE9C8C44DE.jpg"
+        }
+      ],
+      "weatherInfo": "Check the current weather from the National Weather Service at https://www.weather.gov/. San Diego's climate is characterized by warm, dry summers and mild winters, with most of the annual precipitation falling between December and March. The city has a mild climate year-round, with an average of 201 days above 70 °F (21 °C) and low rainfall (9–13 inches [230–330 mm] annually).",
+      "name": "Cabrillo",
+      "designation": "National Monument"
+    },
+    {
+      "id": "B39C368F-CB27-49EC-B2A9-E6C1552430FB",
+      "url": "https://www.nps.gov/cali/index.htm",
+      "fullName": "California National Historic Trail",
+      "parkCode": "cali",
+      "description": "Follow in the footsteps of over 250,000 emigrants who traveled to the gold fields and rich farmlands of California during the 1840s and 1850s: the greatest mass migration in American history. The California National Historic Trail is over 5,000 miles long and covers portions of 10 states. Step into history along more than 1,000 miles of ruts and traces from travelers and their overland wagons.",
+      "latitude": "42.3999643979285",
+      "longitude": "-108.702415369046",
+      "latLong": "lat:42.3999643979285, long:-108.702415369046",
+      "activities": [
+        {
+          "id": "5F723BAD-7359-48FC-98FA-631592256E35",
+          "name": "Auto and ATV"
+        },
+        {
+          "id": "0B4A5320-216D-451A-9990-626E1D5ACE28",
+          "name": "Scenic Driving"
+        },
+        {
+          "id": "B33DC9B6-0B7D-4322-BAD7-A13A34C584A3",
+          "name": "Guided Tours"
+        },
+        {
+          "id": "C7D5A145-F8EB-4C37-9E92-2F6C6206B196",
+          "name": "Self-Guided Tours - Auto"
+        },
+        {
+          "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+          "name": "Hiking"
+        },
+        {
+          "id": "0307955A-B65C-4CE4-A780-EB36BAAADF0B",
+          "name": "Horse Trekking"
+        },
+        {
+          "id": "1886DA47-0AEC-4568-B9C2-8E9BC316AAAC",
+          "name": "Horseback Riding"
+        },
+        {
+          "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+          "name": "Museum Exhibits"
+        }
+      ],
+      "topics": [
+        {
+          "id": "28AEAE85-9DDA-45B6-981B-1CFCDCC61E14",
+          "name": "African American Heritage"
+        },
+        {
+          "id": "7F81A0CB-B91F-4896-B9A5-41BE9A54A27B",
+          "name": "Archeology"
+        },
+        {
+          "id": "00F3C3F9-2D67-4802-81AE-CCEA5D3BA370",
+          "name": "Arts"
+        },
+        {
+          "id": "9BD60DC0-C82B-42BA-A170-456B7423429D",
+          "name": "Photography"
+        },
+        {
+          "id": "156AD9B6-B377-418C-BC9A-F6E682D4BAF7",
+          "name": "Poetry and Literature"
+        },
+        {
+          "id": "607D41B0-F830-4C07-A557-BCEF880A3929",
+          "name": "Burial, Cemetery and Gravesite"
+        },
+        {
+          "id": "7F12224B-217A-4B07-A4A2-636B1CE7F221",
+          "name": "Colonization and Settlement"
+        },
+        {
+          "id": "12EA2B56-17EC-410A-A10D-BFBA87A0669B",
+          "name": "Explorers and Expeditions"
+        },
+        {
+          "id": "988B4AFC-F478-4673-B66D-E6BDB0CCFF35",
+          "name": "Forts"
+        },
+        {
+          "id": "BEB7E470-13B2-4E00-84B2-0402D98DAF69",
+          "name": "Monuments and Memorials"
+        },
+        {
+          "id": "A1BAF33E-EA84-4608-A888-4CEE9541F027",
+          "name": "Native American Heritage"
+        },
+        {
+          "id": "27BF8807-54EA-4A3D-B073-AA7AA361CD7E",
+          "name": "Wars and Conflicts"
+        },
+        {
+          "id": "C9C749E3-39C3-45F7-BCC5-9A609E30AA05",
+          "name": "Westward Expansion"
+        },
+        {
+          "id": "83DDFE66-914E-4402-AD3E-ACA731AB2537",
+          "name": "The Gold Rush"
+        },
+        {
+          "id": "4244F489-6813-4B7A-9D0C-20CE098C8FFF",
+          "name": "Rock Landscapes and Features"
+        },
+        {
+          "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+          "name": "Trails"
+        }
+      ],
+      "states": "CA,CO,ID,KS,MO,NE,NV,OR,UT,WY",
+      "contacts": {
+        "phoneNumbers": [
+          {
+            "phoneNumber": "505-988-6098",
+            "description": "",
+            "extension": "",
+            "type": "Voice"
+          },
+          {
+            "phoneNumber": "505-988-6098",
+            "description": "",
+            "extension": "",
+            "type": "Fax"
+          }
+        ],
+        "emailAddresses": [
+          {
+            "description": "",
+            "emailAddress": "ntir_information@nps.gov"
+          }
+        ]
+      },
+      "entranceFees": [
+        {
+          "cost": "0.00",
+          "description": "There are no user or entry fees for the California National Historic Trail. Fees may be charged at some trail-related federal, state, or locally owned historic sites and interpretive facilities. Please contact individual trail sites before visiting for more information.",
+          "title": "Entrance fees vary site by site"
+        }
+      ],
+      "entrancePasses": [],
+      "fees": [],
+      "directionsInfo": "Those portions of the California National Historic Trail authorized by Congress include nearly 2,000 miles of historic trail that was once the primary \"road\" taken by farmers, enterprising business managers, gold-seekers, and fortune hunters who chose to make a new life on the California frontier. The route passes through ten states from Missouri to California.",
+      "directionsUrl": "http://www.nps.gov/cali/planyourvisit/directions.htm",
+      "operatingHours": [
+        {
+          "exceptions": [],
+          "description": "The California National Historic Trail is not a clearly marked hiking trail. Instead it is a corridor that passes through communities, urban areas, public lands, and Wilderness. The route travels across a variety of land ownerships and management, including private land. Each location varies as to the hours of operation and access. Please contact individual trail sites before your visit for more information.",
+          "standardHours": {
+            "wednesday": "All Day",
+            "monday": "All Day",
+            "thursday": "All Day",
+            "sunday": "All Day",
+            "tuesday": "All Day",
+            "friday": "All Day",
+            "saturday": "All Day"
+          },
+          "name": "California National Historic Trail"
+        }
+      ],
+      "addresses": [
+        {
+          "postalCode": "87505",
+          "city": "Santa Fe",
+          "stateCode": "NM",
+          "line1": "National Trails Office Regions 6|7|8",
+          "type": "Physical",
+          "line3": "1100 Old Santa Fe Trail",
+          "line2": "California National Historic Trail"
+        },
+        {
+          "postalCode": "87505",
+          "city": "Santa Fe",
+          "stateCode": "NM",
+          "line1": "National Trails Office Regions 6|7|8",
+          "type": "Mailing",
+          "line3": "1100 Old Santa Fe Trail",
+          "line2": "California National Historic Trail"
+        }
+      ],
+      "images": [
+        {
+          "credit": "NPS Photo",
+          "title": "Wagon at Register Rock in City of Rocks National Reserve",
+          "altText": "A white canvas wagon sits in front of a large rock buttress with mountains in the distance.",
+          "caption": "Wagon at Register Rock in City of Rocks National Reserve",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7B7987-1DD8-B71B-0B3C3123ED8F686B.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "A creek in Carlin Canyon, Nevada on the California Trail",
+          "altText": "A still creek winds through brown rolling hills.",
+          "caption": "A creek in Carlin Canyon, Nevada on the California Trail",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7B7CDA-1DD8-B71B-0B999C4AC7A9D37C.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "Trail ruts on through Humboldt Wells in Nevada",
+          "altText": "A dirt road passes through sagebrush and a white post with a mountain in the background.",
+          "caption": "Trail ruts on through Humboldt Wells in Nevada",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7B7E5D-1DD8-B71B-0B0A1BE6987E18AF.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "Devil's Gate, Wyoming",
+          "altText": "A rock buttress with a notch in it surrounded by sagebrush flats.",
+          "caption": "Devil's Gate was an important emigrant landmark in Wyoming.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7B7FCF-1DD8-B71B-0BA502EF5988BC47.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "View of West Pass on Carson Route",
+          "altText": "Pine trees partly obscure a distant mountain lake with snow-capped mountains.",
+          "caption": "View of West Pass on the Carson Route of the California NHT.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/56ACD550-C0CE-423B-9448A9D0ABCDD9E7.jpg"
+        }
+      ],
+      "weatherInfo": "Due to the length of the California National Historic Trail, be sure to consult local weather sources for the region you'll be visiting. Check out the forecast with the National Weather Service and search for the area you'd like to visit: weather.gov",
+      "name": "California",
+      "designation": "National Historic Trail"
+    },
+    {
+      "id": "872417E6-2F91-4FDA-89A7-865B51B22332",
+      "url": "https://www.nps.gov/camo/index.htm",
+      "fullName": "Castle Mountains National Monument",
+      "parkCode": "camo",
+      "description": "Castle Mountains represents some of the most unique elements of the Mojave Desert. Nestled between the Nevada state line and Mojave National Preserve, the nearly 21,000 acres of Castle Mountains boasts Joshua tree forests, unbroken natural landscapes, rare desert grasslands, and rich human history. This intriguing area provides serenity and solitude from nearby metropolitan areas.",
+      "latitude": "35.29156348",
+      "longitude": "-115.0935606",
+      "latLong": "lat:35.29156348, long:-115.0935606",
+      "activities": [
+        {
+          "id": "A59947B7-3376-49B4-AD02-C0423E08C5F7",
+          "name": "Camping"
+        },
+        {
+          "id": "9159DF0F-951D-4AAE-9987-CEB3CE2A9ADA",
+          "name": "Car or Front Country Camping"
+        },
+        {
+          "id": "7CFF5F03-5ECC-4F5A-8572-75D1F0976C0C",
+          "name": "Group Camping"
+        },
+        {
+          "id": "C5C5971C-E325-4CEB-8C81-EE49A881DF17",
+          "name": "RV Camping"
+        }
+      ],
+      "topics": [
+        {
+          "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+          "name": "Animals"
+        },
+        {
+          "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+          "name": "Birds"
+        },
+        {
+          "id": "393F60FB-80D6-46F7-B0FB-BBF3C90F59FD",
+          "name": "Tortoises and Turtles"
+        },
+        {
+          "id": "CDD8F34E-3BD4-425A-8264-4F0BA0DFBA38",
+          "name": "Dunes"
+        },
+        {
+          "id": "9F6A7003-59D6-4438-935F-760FD04C1073",
+          "name": "Foothills, Plains and Valleys"
+        },
+        {
+          "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+          "name": "Geology"
+        },
+        {
+          "id": "087E5290-E130-49C1-ADFB-DAFB0644DBE4",
+          "name": "Mineral Deposits"
+        },
+        {
+          "id": "101F4D51-F99D-45A6-BBB6-CD481E5FACED",
+          "name": "Mountains"
+        },
+        {
+          "id": "F8C2FE93-DEB3-4B12-9A87-913E3E6B448D",
+          "name": "Natural Sounds"
+        },
+        {
+          "id": "A7359FC4-DAD8-45F5-AF15-7FF62F816ED3",
+          "name": "Night Sky"
+        },
+        {
+          "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+          "name": "Scenic Views"
+        },
+        {
+          "id": "78E4F4AC-AF97-435A-8C2C-7FB8D67516ED",
+          "name": "Unique Species"
+        },
+        {
+          "id": "489D6333-FD72-44DF-83B0-3D4412DD0A75",
+          "name": "Endangered"
+        },
+        {
+          "id": "B85866E2-0897-4000-9040-605CA335804F",
+          "name": "Wilderness"
+        }
+      ],
+      "states": "CA",
+      "contacts": {
+        "phoneNumbers": [
+          {
+            "phoneNumber": "7602526100",
+            "description": "",
+            "extension": "",
+            "type": "Voice"
+          }
+        ],
+        "emailAddresses": [
+          {
+            "description": "",
+            "emailAddress": "MOJA_Superintendent@nps.gov"
+          }
+        ]
+      },
+      "entranceFees": [
+        {
+          "cost": "0.00",
+          "description": "There are no fees to enter Castle Mountains National Monument.",
+          "title": "Castle Mountains Entrance Fee"
+        }
+      ],
+      "entrancePasses": [
+        {
+          "cost": "0.00",
+          "description": "Castle Mountains is a fee free area.",
+          "title": "Castle Mountains Pass"
+        }
+      ],
+      "fees": [],
+      "directionsInfo": "You can approach Castle Mountains from Walking Box Ranch Road off of Nevada State Rd 164 (Nipton Road) or from several unnamed dirt roads off of Lanfair Road in Mojave National Preserve.",
+      "directionsUrl": "http://www.nps.gov/camo/planyourvisit/directions.htm",
+      "operatingHours": [
+        {
+          "exceptions": [],
+          "description": "Castle Mountains National Monument is open year-round. There are no facilities in the Monument. Visitor Centers in neighboring Mojave National Preserve provide information and orientation.",
+          "standardHours": {
+            "wednesday": "All Day",
+            "monday": "All Day",
+            "thursday": "All Day",
+            "sunday": "All Day",
+            "tuesday": "All Day",
+            "friday": "All Day",
+            "saturday": "All Day"
+          },
+          "name": "Castle Mountains"
+        }
+      ],
+      "addresses": [
+        {
+          "postalCode": "92311",
+          "city": "Barstow",
+          "stateCode": "CA",
+          "line1": "Castle Mountains National Monument",
+          "type": "Physical",
+          "line3": "",
+          "line2": "2701 Barstow Road"
+        },
+        {
+          "postalCode": "92311",
+          "city": "Barstow",
+          "stateCode": "CA",
+          "line1": "Castle Mountains National Monument",
+          "type": "Mailing",
+          "line3": "",
+          "line2": "2701 Barstow Road"
+        }
+      ],
+      "images": [
+        {
+          "credit": "NPS Photo",
+          "title": "Red Rocks Outcropping",
+          "altText": "Red rocks frame a stand of Joshua trees and sage brush.",
+          "caption": "Red rocks frame a stand of Joshua trees and sage brush in the desert floor..",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C87A219-1DD8-B71B-0BF28720E6A4AC75.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "View of Castle Peaks",
+          "altText": "Foreground is desert greenery. The isolated spires of the Castle Peaks rise up in the background",
+          "caption": "From Walking Box Ranch road, visitors to Castle Mountains can enjoy the stunning view of the Castle Peaks, which are located in surrounding Mojave National Preserve lands.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/4AED1BA7-BA13-8631-517EFA3F8ED1D173.jpg"
+        }
+      ],
+      "weatherInfo": "Weather at Castle Mountains changes with the seasons. Freezing temperatures are expected in winter, with occasional snow. Spring brings mild warm days and cooler nights. With enough rain, wildflowers can carpet the area, making for spectacular displays. Summer months are much hotter, with temperatures nearing 100 degrees Fahrenheit. Strong monsoonal storms in late summer may cause flash-flooding in low-lying areas and can create hazardous road conditions. Fall is a cooler respite after the heat of summer.",
+      "name": "Castle Mountains",
+      "designation": "National Monument"
+    },
+    {
+      "id": "5595FC7A-F218-4439-8D2E-F47449838820",
+      "url": "https://www.nps.gov/chis/index.htm",
+      "fullName": "Channel Islands National Park",
+      "parkCode": "chis",
+      "description": "Channel Islands National Park encompasses five remarkable islands and their ocean environment, preserving and protecting a wealth of natural and cultural resources. Isolation over thousands of years has created unique animals, plants, and archeological resources found nowhere else on Earth and helped preserve a place where visitors can experience coastal southern California as it once was.",
+      "latitude": "33.98680093",
+      "longitude": "-119.9112735",
+      "latLong": "lat:33.98680093, long:-119.9112735",
+      "activities": [
+        {
+          "id": "13A57703-BB1A-41A2-94B8-53B692EB7238",
+          "name": "Astronomy"
+        },
+        {
+          "id": "D37A0003-8317-4F04-8FB0-4CF0A272E195",
+          "name": "Stargazing"
+        },
+        {
+          "id": "071BA73C-1D3C-46D4-A53C-00D5602F7F0E",
+          "name": "Boating"
+        },
+        {
+          "id": "E0E4CE55-3119-46DE-86EB-6817CD8D5F30",
+          "name": "Motorized Boating"
+        },
+        {
+          "id": "BB0B8CD0-BF4C-4517-9980-CFE2D149C7B4",
+          "name": "Sailing"
+        },
+        {
+          "id": "A510F02B-8938-4679-A4F9-76580BCAE9C7",
+          "name": "Boat Tour"
+        },
+        {
+          "id": "A59947B7-3376-49B4-AD02-C0423E08C5F7",
+          "name": "Camping"
+        },
+        {
+          "id": "4A58AF13-E8FB-4530-B41A-97DF0B0C77B7",
+          "name": "Backcountry Camping"
+        },
+        {
+          "id": "907E8125-15E4-483C-8EAD-B9FA1E85C6F8",
+          "name": "Canoe or Kayak Camping"
+        },
+        {
+          "id": "7CFF5F03-5ECC-4F5A-8572-75D1F0976C0C",
+          "name": "Group Camping"
+        },
+        {
+          "id": "C11D3746-5063-4BD0-B245-7178D1AD866C",
+          "name": "Compass and GPS"
+        },
+        {
+          "id": "89DA72D0-16D6-4C1C-89D4-103D94F1F63D",
+          "name": "Orienteering"
+        },
+        {
+          "id": "AE42B46C-E4B7-4889-A122-08FE180371AE",
+          "name": "Fishing"
+        },
+        {
+          "id": "17411C8D-5769-4D0F-ABD1-52ED03840C18",
+          "name": "Saltwater Fishing"
+        },
+        {
+          "id": "1DFACD97-1B9C-4F5A-80F2-05593604799E",
+          "name": "Food"
+        },
+        {
+          "id": "C6D3230A-2CEA-4AFE-BFF3-DC1E2C2C4BB4",
+          "name": "Picnicking"
+        },
+        {
+          "id": "B33DC9B6-0B7D-4322-BAD7-A13A34C584A3",
+          "name": "Guided Tours"
+        },
+        {
+          "id": "A0631906-9672-4583-91DE-113B93DB6B6E",
+          "name": "Self-Guided Tours - Walking"
+        },
+        {
+          "id": "5A241412-0CFB-497A-9B5F-0AB8C03CDE72",
+          "name": "Boat Tour"
+        },
+        {
+          "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+          "name": "Hiking"
+        },
+        {
+          "id": "7C37B79B-D02D-49EB-9020-3DB8299B748A",
+          "name": "Backcountry Hiking"
+        },
+        {
+          "id": "45261C0A-00D8-4C27-A1F8-029F933A0D34",
+          "name": "Front-Country Hiking"
+        },
+        {
+          "id": "EADFAEEB-4D57-49DB-9C58-BF8DC241C24F",
+          "name": "Off-Trail Permitted Hiking"
+        },
+        {
+          "id": "4D224BCA-C127-408B-AC75-A51563C42411",
+          "name": "Paddling"
+        },
+        {
+          "id": "256543C7-4322-48B3-8978-765E89AA9431",
+          "name": "Canoe or Kayak Camping"
+        },
+        {
+          "id": "F353A9ED-4A08-456E-8DEC-E61974D0FEB6",
+          "name": "Kayaking"
+        },
+        {
+          "id": "B3EF12AF-D951-419E-BD3C-6B36CBCC1E16",
+          "name": "Stand Up Paddleboarding"
+        },
+        {
+          "id": "DF4A35E0-7983-4A3E-BC47-F37B872B0F25",
+          "name": "Junior Ranger Program"
+        },
+        {
+          "id": "42CF4021-8524-428E-866A-D33097A4A764",
+          "name": "SCUBA Diving"
+        },
+        {
+          "id": "3EBF7EAC-68FC-4754-B6A4-0C38A1583D45",
+          "name": "Snorkeling"
+        },
+        {
+          "id": "AE3C95F5-E05B-4A28-81DD-1C5FD4BE88E2",
+          "name": "Surfing"
+        },
+        {
+          "id": "587BB2D3-EC35-41B2-B3F7-A39E2B088AEE",
+          "name": "Swimming"
+        },
+        {
+          "id": "C2801992-F34D-4974-A0F2-80FF04309EE4",
+          "name": "Saltwater Swimming"
+        },
+        {
+          "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+          "name": "Wildlife Watching"
+        },
+        {
+          "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+          "name": "Birdwatching"
+        },
+        {
+          "id": "0C0D142F-06B5-4BE1-8B44-491B90F93DEB",
+          "name": "Park Film"
+        },
+        {
+          "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+          "name": "Museum Exhibits"
+        },
+        {
+          "id": "24380E3F-AD9D-4E38-BF13-C8EEB21893E7",
+          "name": "Shopping"
+        },
+        {
+          "id": "467DC8B8-0B7D-436D-A026-80A22358F615",
+          "name": "Bookstore and Park Store"
+        }
+      ],
+      "topics": [
+        {
+          "id": "69693007-2DF2-4EDE-BB3B-A25EBA72BDF5",
+          "name": "Architecture and Building"
+        },
+        {
+          "id": "7F81A0CB-B91F-4896-B9A5-41BE9A54A27B",
+          "name": "Archeology"
+        },
+        {
+          "id": "7F12224B-217A-4B07-A4A2-636B1CE7F221",
+          "name": "Colonization and Settlement"
+        },
+        {
+          "id": "1170EEB6-5070-4760-8E7D-FF1A98272FAD",
+          "name": "Commerce"
+        },
+        {
+          "id": "A010EADF-78B8-4526-B0A4-70B0E0B3470E",
+          "name": "Trade"
+        },
+        {
+          "id": "12EA2B56-17EC-410A-A10D-BFBA87A0669B",
+          "name": "Explorers and Expeditions"
+        },
+        {
+          "id": "1F833C99-A75D-4F9E-9256-B96523485466",
+          "name": "Farming and  Agriculture"
+        },
+        {
+          "id": "E4E84C87-6737-4C37-9157-5962648A35F2",
+          "name": "Ranches"
+        },
+        {
+          "id": "4C9D4777-A9DA-47D1-A0B9-F4A3C98BC1B3",
+          "name": "Maritime"
+        },
+        {
+          "id": "123CE28E-0EFA-4330-8E6E-EEFF3D7BF772",
+          "name": "Coastal Defenses"
+        },
+        {
+          "id": "7424754D-EB8B-4608-A69A-50D44992931B",
+          "name": "Maritime - Military"
+        },
+        {
+          "id": "263BAC6E-4DEC-47E4-909D-DA8AD351E06E",
+          "name": "Lighthouses"
+        },
+        {
+          "id": "78CF2074-0EE5-48F1-AD0F-B39C6C5A447B",
+          "name": "Piracy and Privateering"
+        },
+        {
+          "id": "A079385C-3E71-4E18-9E42-B046BC22EA95",
+          "name": "Ships and Shipwrecks"
+        },
+        {
+          "id": "3B0D607D-9933-425A-BFA0-21529AC4734C",
+          "name": "Military"
+        },
+        {
+          "id": "7A9F5EB5-4AE3-4A16-AFF0-E1F9FF2F8B32",
+          "name": "US Navy"
+        },
+        {
+          "id": "D164D82F-4031-4BCB-90A8-B388502CA308",
+          "name": "US Coast Guard"
+        },
+        {
+          "id": "BEB7E470-13B2-4E00-84B2-0402D98DAF69",
+          "name": "Monuments and Memorials"
+        },
+        {
+          "id": "A1BAF33E-EA84-4608-A888-4CEE9541F027",
+          "name": "Native American Heritage"
+        },
+        {
+          "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+          "name": "Animals"
+        },
+        {
+          "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+          "name": "Birds"
+        },
+        {
+          "id": "1608649A-E7D7-4529-BD83-074C90F9FB68",
+          "name": "Fish"
+        },
+        {
+          "id": "4DC11D06-00F1-4A01-81D0-89CCCCE4FF50",
+          "name": "Climate Change"
+        },
+        {
+          "id": "46FC5CBD-9AD5-48F1-B4DA-1357031B1D2E",
+          "name": "Coasts, Islands and Atolls"
+        },
+        {
+          "id": "CDD8F34E-3BD4-425A-8264-4F0BA0DFBA38",
+          "name": "Dunes"
+        },
+        {
+          "id": "F79C1242-80FF-40F0-A0C1-5FFCBA172EC0",
+          "name": "Estuaries and Mangroves"
+        },
+        {
+          "id": "04A39AB8-DD02-432F-AE5F-BA1267D41A0D",
+          "name": "Fire"
+        },
+        {
+          "id": "41B1A0A3-11FF-4F55-9CB9-034A7E28B087",
+          "name": "Forests and Woodlands"
+        },
+        {
+          "id": "F6D3A52E-608F-47D6-96DF-1FD64122A2FC",
+          "name": "Fossils and Paleontology"
+        },
+        {
+          "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+          "name": "Geology"
+        },
+        {
+          "id": "94262026-92F5-48E9-90EF-01CEAEFBA4FF",
+          "name": "Grasslands"
+        },
+        {
+          "id": "101F4D51-F99D-45A6-BBB6-CD481E5FACED",
+          "name": "Mountains"
+        },
+        {
+          "id": "F8C2FE93-DEB3-4B12-9A87-913E3E6B448D",
+          "name": "Natural Sounds"
+        },
+        {
+          "id": "A7359FC4-DAD8-45F5-AF15-7FF62F816ED3",
+          "name": "Night Sky"
+        },
+        {
+          "id": "E06F3C94-AC8A-4B1C-A247-8EBA8910D5EE",
+          "name": "Astronomy"
+        },
+        {
+          "id": "0E6D8503-CB65-467F-BCD6-C6D9E28A4E0B",
+          "name": "Oceans"
+        },
+        {
+          "id": "980D1693-65BF-4F29-8182-7BAC9796E605",
+          "name": "Whales"
+        },
+        {
+          "id": "A155238F-0DD2-4610-9B87-05FCE1C59283",
+          "name": "River and Riparian"
+        },
+        {
+          "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+          "name": "Scenic Views"
+        },
+        {
+          "id": "A86F34FB-BD6D-4D09-80CC-421B6113DF2E",
+          "name": "Thickets and Shrublands"
+        },
+        {
+          "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+          "name": "Trails"
+        },
+        {
+          "id": "78E4F4AC-AF97-435A-8C2C-7FB8D67516ED",
+          "name": "Unique Species"
+        },
+        {
+          "id": "996BEDAE-CB23-4003-B008-3A1F46A72263",
+          "name": "Rare"
+        },
+        {
+          "id": "489D6333-FD72-44DF-83B0-3D4412DD0A75",
+          "name": "Endangered"
+        },
+        {
+          "id": "BA12B386-49EA-46B0-9121-FCACACC47538",
+          "name": "Watersheds"
+        },
+        {
+          "id": "1365C347-952C-475A-B755-731DD523C195",
+          "name": "Wetlands"
+        },
+        {
+          "id": "FD0BA21A-5F69-4688-9D4B-856DA242DC78",
+          "name": "Marshes"
+        },
+        {
+          "id": "B85866E2-0897-4000-9040-605CA335804F",
+          "name": "Wilderness"
+        }
+      ],
+      "states": "CA",
+      "contacts": {
+        "phoneNumbers": [
+          {
+            "phoneNumber": "8056585730",
+            "description": "",
+            "extension": "",
+            "type": "Voice"
+          },
+          {
+            "phoneNumber": "8056585799",
+            "description": "",
+            "extension": "",
+            "type": "Fax"
+          }
+        ],
+        "emailAddresses": [
+          {
+            "description": "",
+            "emailAddress": "chis_information@nps.gov"
+          }
+        ]
+      },
+      "entranceFees": [
+        {
+          "cost": "0.00",
+          "description": "There is no entrance fee to visit the Channel Islands National Park.",
+          "title": "Entrance"
+        }
+      ],
+      "entrancePasses": [],
+      "fees": [],
+      "directionsInfo": "While the mainland visitor center in Ventura is readily accessible by car or public transportation, the islands are only accessible by park concessionaire boats and planes or private boat. Advanced planning is highly recommended.",
+      "directionsUrl": "http://www.nps.gov/chis/planyourvisit/directions.htm",
+      "operatingHours": [
+        {
+          "exceptions": [],
+          "description": "The park is open 24 hours a day. Services and facilities have separate hours. Please see descriptions of those facilities elsewhere.",
+          "standardHours": {
+            "wednesday": "All Day",
+            "monday": "All Day",
+            "thursday": "All Day",
+            "sunday": "All Day",
+            "tuesday": "All Day",
+            "friday": "All Day",
+            "saturday": "All Day"
+          },
+          "name": "Channel Islands National Park"
+        }
+      ],
+      "addresses": [
+        {
+          "postalCode": "93001",
+          "city": "Ventura",
+          "stateCode": "CA",
+          "line1": "1901 Spinnaker Drive",
+          "type": "Physical",
+          "line3": "",
+          "line2": ""
+        },
+        {
+          "postalCode": "93001",
+          "city": "Ventura",
+          "stateCode": "CA",
+          "line1": "1901 Spinnaker Drive",
+          "type": "Mailing",
+          "line3": "",
+          "line2": ""
+        }
+      ],
+      "images": [
+        {
+          "credit": "Tim Hauf, timhaufphotography.com",
+          "title": "Inspiration Point by Tim Hauf",
+          "altText": "Steep, rugged ocean cliffs extending in an island chain.",
+          "caption": "Inspiration Point, Anacapa Island: One of the most spectacular views in the park can be found from Inspiration Point. Looking to the west, one may see Middle and West Anacapa, with Santa Cruz Island in the distance.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/8DE774D1-CB22-37F2-D826E3F0A73D303A.jpg"
+        },
+        {
+          "credit": "Tim Hauf, timhaufphotography.com",
+          "title": "Arch Point by Tim Hauf",
+          "altText": "Yellow flowers in foreground extending out along a rocky coastline to a natural arch.",
+          "caption": "Arch Point, Santa Barbara Island: With winter rains, the coreopsis emerges from summer's dormancy with light green foliage and bright yellow daisy-like flowers",
+          "url": "https://www.nps.gov/common/uploads/structured_data/8E0CA65D-0CF8-87C6-DE4B4AA7AAC02DEA.jpg"
+        },
+        {
+          "credit": "Tim Hauf, timhaufphotography.com",
+          "title": "Torrey Pines by Tim Hauf",
+          "altText": "Pine tree high on a ridge overlooking a bay with blue water and white sand beach.",
+          "caption": "Torrey Pines, Santa Rosa Island: Torrey pines occur naturally in only two locations throughout the world--on the cool, fog drenched northeastern slopes of Bechers Bay and just north of San Diego.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/8DF30150-D91A-D761-4A5064BA77154E2C.jpg"
+        },
+        {
+          "credit": "Tim Hauf, timhaufphotography.com",
+          "title": "Point Bennet by Tim Hauf",
+          "altText": "Brown seals and sea lions on white sand beach with blue water and partly cloudy sky.",
+          "caption": "Point Bennet, San Miguel Island: One of the greatest concentrations of wildlife in the world occurs on San Miguel with over 100,000 pinnipeds gathering to breed, pup, and rest.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/8E1AE30B-DBDB-C193-C1023F2C7591ABA0.jpg"
+        },
+        {
+          "credit": "Tim Hauf, timhaufphotography.com",
+          "title": "Island Fox by Tim Hauf",
+          "altText": "Rust and grey colored fox in green grass.",
+          "caption": "Island Fox, Santa Cruz Island: Thousands of years of isolation in a unique island environment has resulted in the development of the endemic island fox, a dwarf form of the mainland gray fox.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/8E003516-C693-8617-61EC2F2E06BA1E45.jpg"
+        }
+      ],
+      "weatherInfo": "In general, the islands have a Mediterranean climate year-round. Temperatures are relatively stable, with highs averaging in the mid-60s (°F) and lows in the low-50s. However, there are seasonal differences that visitors should take into consideration when visiting the park. In addition, visitors also should be aware that ocean and weather conditions vary considerably from day-to-day and island-to-island. For more information visit: http://www.nps.gov/chis/planyourvisit/weather.htm",
+      "name": "Channel Islands",
+      "designation": "National Park"
+    },
+    {
+      "id": "D1EAA1D1-E855-42FF-9D06-8E983413BDE5",
+      "url": "https://www.nps.gov/cech/index.htm",
+      "fullName": "César E. Chávez National Monument",
+      "parkCode": "cech",
+      "description": "Yes, we can! Widely recognized as the most important Latino leader in the United States during the twentieth century, César E. Chávez led farm workers and supporters in the establishment of the country's first permanent agricultural union. His leadership brought sustained international attention to the plight of U.S. farm workers, and secured for them higher wages and safer working conditions",
+      "latitude": "35.22729389",
+      "longitude": "-118.5615781",
+      "latLong": "lat:35.22729389, long:-118.5615781",
+      "activities": [
+        {
+          "id": "DF4A35E0-7983-4A3E-BC47-F37B872B0F25",
+          "name": "Junior Ranger Program"
+        },
+        {
+          "id": "0C0D142F-06B5-4BE1-8B44-491B90F93DEB",
+          "name": "Park Film"
+        }
+      ],
+      "topics": [
+        {
+          "id": "607D41B0-F830-4C07-A557-BCEF880A3929",
+          "name": "Burial, Cemetery and Gravesite"
+        },
+        {
+          "id": "1F833C99-A75D-4F9E-9256-B96523485466",
+          "name": "Farming and  Agriculture"
+        },
+        {
+          "id": "78078CA8-DCBC-4320-A7BF-259A56D55CA2",
+          "name": "Hispanic American Heritage"
+        },
+        {
+          "id": "14FA9FF3-7D86-4406-9A6D-BE9032A1C578",
+          "name": "Laborer and Worker"
+        },
+        {
+          "id": "1F95D138-CE10-40B5-95D0-B5BE4133B3A1",
+          "name": "Migrant Workers"
+        },
+        {
+          "id": "E1C7ED3C-C804-4D96-B565-B4A13BEBB00E",
+          "name": "Labor Movement"
+        },
+        {
+          "id": "9FCC01C6-F068-4A05-9A78-23FEBFADAF56",
+          "name": "Latino American Heritage"
+        },
+        {
+          "id": "BEB7E470-13B2-4E00-84B2-0402D98DAF69",
+          "name": "Monuments and Memorials"
+        },
+        {
+          "id": "40C0866A-3890-41A4-84CA-5935DEE181AE",
+          "name": "Social Movements"
+        },
+        {
+          "id": "8F34C3EC-7B8E-4F28-8114-B8DFE4F300DF",
+          "name": "Civil Rights"
+        }
+      ],
+      "states": "CA",
+      "contacts": {
+        "phoneNumbers": [
+          {
+            "phoneNumber": "6618236134",
+            "description": "",
+            "extension": "",
+            "type": "Voice"
+          }
+        ],
+        "emailAddresses": [
+          {
+            "description": "",
+            "emailAddress": "nps_cech_administration@nps.gov"
+          }
+        ]
+      },
+      "entranceFees": [
+        {
+          "cost": "0.00",
+          "description": "No entrance fees are charged at César E. Chávez National Monument.",
+          "title": "No Entrance Fee"
+        }
+      ],
+      "entrancePasses": [],
+      "fees": [],
+      "directionsInfo": "The monument is located near the small town of Keene, California on Highway 58. From Highway 58, take exit 138 toward Keene, then turn right on Woodford-Tehachapi Road. César E. Chávez National Monument will be on your left.",
+      "directionsUrl": "http://www.nps.gov/cech/planyourvisit/directions.htm",
+      "operatingHours": [
+        {
+          "exceptions": [
+            {
+              "exceptionHours": {
+                "sunday": "Closed"
+              },
+              "startDate": "2022-04-04",
+              "name": "Easter Sunday",
+              "endDate": "2022-04-04"
+            },
+            {
+              "exceptionHours": {
+                "thursday": "Closed",
+                "friday": "Closed"
+              },
+              "startDate": "2021-11-26",
+              "name": "Thanksgiving & the Friday After",
+              "endDate": "2021-11-27"
+            },
+            {
+              "exceptionHours": {
+                "thursday": "Closed",
+                "friday": "Closed"
+              },
+              "startDate": "2021-12-24",
+              "name": "Christmas Eve & Christmas Day",
+              "endDate": "2021-12-25"
+            },
+            {
+              "exceptionHours": {
+                "thursday": "Closed",
+                "friday": "Closed"
+              },
+              "startDate": "2021-12-31",
+              "name": "New Year's Eve & New Year's Day",
+              "endDate": "2022-01-01"
+            }
+          ],
+          "description": "The monument is open daily from 10:00 am to 4:00 pm except for the following holidays:  Easter Sunday, Thanksgiving Day and the Friday after, Christmas Eve and Christmas Day, and New Year's Eve and New Year's Day.",
+          "standardHours": {
+            "wednesday": "10:00AM - 4:00PM",
+            "monday": "10:00AM - 4:00PM",
+            "thursday": "10:00AM - 4:00PM",
+            "sunday": "10:00AM - 4:00PM",
+            "tuesday": "10:00AM - 4:00PM",
+            "friday": "10:00AM - 4:00PM",
+            "saturday": "10:00AM - 4:00PM"
+          },
+          "name": "César E. Chávez National Monument Hours"
+        }
+      ],
+      "addresses": [
+        {
+          "postalCode": "93531",
+          "city": "Keene",
+          "stateCode": "CA",
+          "line1": "29700 Woodford-Tehachapi Road",
+          "type": "Physical",
+          "line3": "",
+          "line2": ""
+        },
+        {
+          "postalCode": "93531",
+          "city": "Keene",
+          "stateCode": "CA",
+          "line1": "PO Box 201",
+          "type": "Mailing",
+          "line3": "",
+          "line2": ""
+        }
+      ],
+      "images": [
+        {
+          "credit": "NPS",
+          "title": "Courtyard at Visitor Center Entrance",
+          "altText": "A walkway with a fountain",
+          "caption": "A walkway separates the entrances to the visitor center and the memorial garden.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7A4740-1DD8-B71B-0BF737E1DDD1EA21.jpg"
+        },
+        {
+          "credit": "NPS/Ruben Andrade",
+          "title": "Memorial Garden & Gravesite",
+          "altText": "Red roses bloom near a fountain and grave marker",
+          "caption": "Roses grow in the memorial garden near the gravesite of César Chávez.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7A48C7-1DD8-B71B-0B8D139352CE285D.jpg"
+        },
+        {
+          "credit": "NPS/Ruben Andrade",
+          "title": "César Chávez's Office",
+          "altText": "A chair and desk near bookshelves",
+          "caption": "César Chávez's office was carefully preserved and can be seen in the exhibit hall.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7A4A13-1DD8-B71B-0BBB7EE1AE655227.jpg"
+        },
+        {
+          "credit": "NPS/Ruben Andrade",
+          "title": "Desert Garden",
+          "altText": "Desert plants grow from rocky soil",
+          "caption": "A desert garden features plants found in Yuma, Arizona, where César E. Chávez was born.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7A4B4B-1DD8-B71B-0B9389ACB89672E9.jpg"
+        },
+        {
+          "credit": "NPS",
+          "title": "Photo Collection",
+          "altText": "A black and white photo showing a farmworker demonstration",
+          "caption": "In the exhibit hall, explore the history of the farmworker movement through photos taken during marches and strikes.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7A4C95-1DD8-B71B-0BFE7C46AC8B42C5.jpg"
+        }
+      ],
+      "weatherInfo": "The climate in this area is mild, with warm, dry summers and cool winters. Average temperatures in July, the warmest month, are in the mid-80s and hot days often reach into the 90s. In winter, frosty mornings are common and roads may be icy.",
+      "name": "César E. Chávez",
+      "designation": "National Monument"
+    },
+    {
+      "id": "FFC9F9C4-D79D-4CA7-AB0F-7A2AD30061CD",
+      "url": "https://www.nps.gov/deva/index.htm",
+      "fullName": "Death Valley National Park",
+      "parkCode": "deva",
+      "description": "In this below-sea-level basin, steady drought and record summer heat make Death Valley a land of extremes. Yet, each extreme has a striking contrast. Towering peaks are frosted with winter snow. Rare rainstorms bring vast fields of wildflowers. Lush oases harbor tiny fish and refuge for wildlife and humans. Despite its morbid name, a great diversity of life survives in Death Valley.",
+      "latitude": "36.48753731",
+      "longitude": "-117.134395",
+      "latLong": "lat:36.48753731, long:-117.134395",
+      "activities": [
+        {
+          "id": "13A57703-BB1A-41A2-94B8-53B692EB7238",
+          "name": "Astronomy"
+        },
+        {
+          "id": "D37A0003-8317-4F04-8FB0-4CF0A272E195",
+          "name": "Stargazing"
+        },
+        {
+          "id": "7CE6E935-F839-4FEC-A63E-052B1DEF39D2",
+          "name": "Biking"
+        },
+        {
+          "id": "299CB934-88DC-474F-A33D-E43E29A149C2",
+          "name": "Mountain Biking"
+        },
+        {
+          "id": "8D778629-F603-4C50-A121-6F4BB2FE2C4B",
+          "name": "Road Biking"
+        },
+        {
+          "id": "A59947B7-3376-49B4-AD02-C0423E08C5F7",
+          "name": "Camping"
+        },
+        {
+          "id": "4A58AF13-E8FB-4530-B41A-97DF0B0C77B7",
+          "name": "Backcountry Camping"
+        },
+        {
+          "id": "9159DF0F-951D-4AAE-9987-CEB3CE2A9ADA",
+          "name": "Car or Front Country Camping"
+        },
+        {
+          "id": "07CBCA6A-46B8-413F-8B6C-ABEDEBF9853E",
+          "name": "Canyoneering"
+        },
+        {
+          "id": "1DFACD97-1B9C-4F5A-80F2-05593604799E",
+          "name": "Food"
+        },
+        {
+          "id": "D72206E4-6CD1-4441-A355-F8F1827466B1",
+          "name": "Flying"
+        },
+        {
+          "id": "3F3ABD16-2C52-4EAA-A1F6-4235DE5686F0",
+          "name": "Golfing"
+        },
+        {
+          "id": "B33DC9B6-0B7D-4322-BAD7-A13A34C584A3",
+          "name": "Guided Tours"
+        },
+        {
+          "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+          "name": "Hiking"
+        },
+        {
+          "id": "7C37B79B-D02D-49EB-9020-3DB8299B748A",
+          "name": "Backcountry Hiking"
+        },
+        {
+          "id": "45261C0A-00D8-4C27-A1F8-029F933A0D34",
+          "name": "Front-Country Hiking"
+        },
+        {
+          "id": "0307955A-B65C-4CE4-A780-EB36BAAADF0B",
+          "name": "Horse Trekking"
+        },
+        {
+          "id": "B204DE60-5A24-43DD-8902-C81625A09A74",
+          "name": "Living History"
+        },
+        {
+          "id": "28880A5B-3D29-41AC-BD8B-24743E7A070F",
+          "name": "First Person Interpretation"
+        },
+        {
+          "id": "DF4A35E0-7983-4A3E-BC47-F37B872B0F25",
+          "name": "Junior Ranger Program"
+        },
+        {
+          "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+          "name": "Wildlife Watching"
+        },
+        {
+          "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+          "name": "Birdwatching"
+        },
+        {
+          "id": "0C0D142F-06B5-4BE1-8B44-491B90F93DEB",
+          "name": "Park Film"
+        },
+        {
+          "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+          "name": "Museum Exhibits"
+        },
+        {
+          "id": "24380E3F-AD9D-4E38-BF13-C8EEB21893E7",
+          "name": "Shopping"
+        },
+        {
+          "id": "467DC8B8-0B7D-436D-A026-80A22358F615",
+          "name": "Bookstore and Park Store"
+        },
+        {
+          "id": "43800AD1-D439-40F3-AAB3-9FB651FE45BB",
+          "name": "Gift Shop and Souvenirs"
+        }
+      ],
+      "topics": [
+        {
+          "id": "7F81A0CB-B91F-4896-B9A5-41BE9A54A27B",
+          "name": "Archeology"
+        },
+        {
+          "id": "227D2677-28CA-4CBF-997F-61108975A497",
+          "name": "Asian American Heritage"
+        },
+        {
+          "id": "351EE154-87AA-46B0-BBA1-ED604368ACE9",
+          "name": "Incarceration"
+        },
+        {
+          "id": "367BC636-6F02-4F1B-BEAA-5A20E46C7207",
+          "name": "Japanese-American Internment"
+        },
+        {
+          "id": "0B575E33-B68F-4F3D-998E-B03284606CF3",
+          "name": "Industry"
+        },
+        {
+          "id": "BDC806A8-5470-4A8B-A0F9-CD804BE3028A",
+          "name": "Mining"
+        },
+        {
+          "id": "A1BAF33E-EA84-4608-A888-4CEE9541F027",
+          "name": "Native American Heritage"
+        },
+        {
+          "id": "C9C749E3-39C3-45F7-BCC5-9A609E30AA05",
+          "name": "Westward Expansion"
+        },
+        {
+          "id": "83DDFE66-914E-4402-AD3E-ACA731AB2537",
+          "name": "The Gold Rush"
+        },
+        {
+          "id": "7DA81DAB-5045-4953-9C20-36590AD9FA95",
+          "name": "Women's History"
+        },
+        {
+          "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+          "name": "Animals"
+        },
+        {
+          "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+          "name": "Birds"
+        },
+        {
+          "id": "1608649A-E7D7-4529-BD83-074C90F9FB68",
+          "name": "Fish"
+        },
+        {
+          "id": "393F60FB-80D6-46F7-B0FB-BBF3C90F59FD",
+          "name": "Tortoises and Turtles"
+        },
+        {
+          "id": "4DC11D06-00F1-4A01-81D0-89CCCCE4FF50",
+          "name": "Climate Change"
+        },
+        {
+          "id": "CDD8F34E-3BD4-425A-8264-4F0BA0DFBA38",
+          "name": "Dunes"
+        },
+        {
+          "id": "9F6A7003-59D6-4438-935F-760FD04C1073",
+          "name": "Foothills, Plains and Valleys"
+        },
+        {
+          "id": "F6D3A52E-608F-47D6-96DF-1FD64122A2FC",
+          "name": "Fossils and Paleontology"
+        },
+        {
+          "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+          "name": "Geology"
+        },
+        {
+          "id": "101F4D51-F99D-45A6-BBB6-CD481E5FACED",
+          "name": "Mountains"
+        },
+        {
+          "id": "A7359FC4-DAD8-45F5-AF15-7FF62F816ED3",
+          "name": "Night Sky"
+        },
+        {
+          "id": "E06F3C94-AC8A-4B1C-A247-8EBA8910D5EE",
+          "name": "Astronomy"
+        },
+        {
+          "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+          "name": "Scenic Views"
+        },
+        {
+          "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+          "name": "Trails"
+        },
+        {
+          "id": "78E4F4AC-AF97-435A-8C2C-7FB8D67516ED",
+          "name": "Unique Species"
+        },
+        {
+          "id": "489D6333-FD72-44DF-83B0-3D4412DD0A75",
+          "name": "Endangered"
+        },
+        {
+          "id": "B85866E2-0897-4000-9040-605CA335804F",
+          "name": "Wilderness"
+        }
+      ],
+      "states": "CA,NV",
+      "contacts": {
+        "phoneNumbers": [
+          {
+            "phoneNumber": "7607863200",
+            "description": "",
+            "extension": "",
+            "type": "Voice"
+          }
+        ],
+        "emailAddresses": [
+          {
+            "description": "",
+            "emailAddress": "deva_information@nps.gov"
+          }
+        ]
+      },
+      "entranceFees": [
+        {
+          "cost": "30.00",
+          "description": "This permit allows all persons traveling with the permit holder in one single private, non-commercial vehicle (car/truck/van) to leave and re-enter the park as many times as they wish during the 7-day period from the date of purchase.",
+          "title": "Death Valley Entrance Fee - per vehicle"
+        },
+        {
+          "cost": "25.00",
+          "description": "This permit allows persons traveling on one motorcycle to leave and re-enter the park as many times as they wish during the 7-day period from the date of purchase.",
+          "title": "Death Valley Entrance Fee - per motorcycle"
+        },
+        {
+          "cost": "15.00",
+          "description": "This permit allows a single individual traveling on foot or individuals traveling on one bicycle to leave and re-enter the park as many times as they wish during the 7-day period from the date of purchase.",
+          "title": "Death Valley Entrance Fee - per individual"
+        }
+      ],
+      "entrancePasses": [
+        {
+          "cost": "55.00",
+          "description": "Annual pass providing free entrance to Death Valley for 12 months from the date of purchase",
+          "title": "Death Valley Annual Pass"
+        }
+      ],
+      "fees": [],
+      "directionsInfo": "The main road transecting Death Valley National Park from east to west is California Highway 190. On the east in Nevada, U.S. Route 95 parallels the park from north to south with connecting highways at Scotty's Junction (State Route 267), Beatty (State Route 374), and Lathrop Wells (State Route 373).",
+      "directionsUrl": "http://www.nps.gov/deva/planyourvisit/directions.htm",
+      "operatingHours": [
+        {
+          "exceptions": [],
+          "description": "The park is open daily all year.",
+          "standardHours": {
+            "wednesday": "All Day",
+            "monday": "All Day",
+            "thursday": "All Day",
+            "sunday": "All Day",
+            "tuesday": "All Day",
+            "friday": "All Day",
+            "saturday": "All Day"
+          },
+          "name": "Death Valley National Park"
+        }
+      ],
+      "addresses": [
+        {
+          "postalCode": "92328",
+          "city": "Death Valley",
+          "stateCode": "CA",
+          "line1": "PO Box 579",
+          "type": "Physical",
+          "line3": "",
+          "line2": ""
+        },
+        {
+          "postalCode": "92328",
+          "city": "Death Valley",
+          "stateCode": "CA",
+          "line1": "PO Box 579",
+          "type": "Mailing",
+          "line3": "",
+          "line2": ""
+        }
+      ],
+      "images": [
+        {
+          "credit": "Ronald Gaddis",
+          "title": "Sunset from Zabriskie Point",
+          "altText": "badlands bathed in pale pink and orange light from the setting sun",
+          "caption": "The warm light of sunset covers the badlands at Zabriskie Point.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/010A933C-95B1-CBCD-D6D64D47D5B81E76.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "Zabriskie Point",
+          "altText": "Morning light on the badlands below Zabriskie Point.",
+          "caption": "Zabriskie Point is a popular place to view sunrise over the badlands.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7EC929-1DD8-B71B-0B6F8851F7D62846.jpg"
+        },
+        {
+          "credit": "NPS photo",
+          "title": "Storm over the Salt Flats",
+          "altText": "white salt flats with dark gray clouds",
+          "caption": "Badwater Basin is the lowest point in North America at -282 feet.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/011D09CC-B05F-EFA0-820E55431CFBE5FE.jpg"
+        },
+        {
+          "credit": "NPS / Jan Vanderlay",
+          "title": "Sunset at Dantes View",
+          "altText": "a sunset overlooking a valley filled with white salt",
+          "caption": "A mile above the salt flats in the valley below, Dantes View provides breathtaking vistas.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/016AF1A5-E794-213A-6016B3C10486CF7E.jpg"
+        },
+        {
+          "credit": "NPS / J. Jurado",
+          "title": "Lupine and Tortoiseshell Butterfly",
+          "altText": "pink lupine flowers with an orange and black butterfly",
+          "caption": "Higher elevations provide a respite from the heat in this alpine ecosystem.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/DE565754-0008-EEF4-AD521ED16178ADEA.jpg"
+        },
+        {
+          "credit": "NPS / J. Jurado",
+          "title": "Wildrose Charcoal Kilns",
+          "altText": "nine 25 foot tall rock beehive structures",
+          "caption": "Nearly a century and a half old, these are some of the best preserved kilns in the western U.S.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/DE627F5D-DE99-659B-7F55B12323533BFC.jpg"
+        },
+        {
+          "credit": "NPS / Kurt Moses",
+          "title": "A rare superbloom of Desert Gold.",
+          "altText": "a field of yellow flowers with a mountain",
+          "caption": "About once a decade, rains at the right times can lead to a rare superbloom!",
+          "url": "https://www.nps.gov/common/uploads/structured_data/1A18EC97-EB1E-7D32-05BE1B8D08719225.jpg"
+        },
+        {
+          "credit": "NPS / J. Jurado",
+          "title": "Hottest Place on Earth",
+          "altText": "thermometer reading 130 f 54 c",
+          "caption": "Summers are infamously hot, as for 6 months of the year temperatures above 120 degrees are regularly recorded.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/DEF5FFF0-0C8A-00A5-F2EA8F279F1DF876.jpg"
+        },
+        {
+          "credit": "NPS / J. Jurado",
+          "title": "Winding canyons await",
+          "altText": "polished walls of a narrow canyon",
+          "caption": "There are numerous canyons to explore across this vast park.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/DF10832A-92CD-9646-134739E0F537887E.jpg"
+        }
+      ],
+      "weatherInfo": "SPRING is the most popular time to visit Death Valley. Warm and sunny days with the possibility of spring wildflowers is a big attraction. SUMMER starts early in Death Valley. By May the valley can be scorching hot. AUTUMN arrives in late October, with warm but pleasant temperatures and generally clear skies. WINTER has cool days, chilly nights and rarely, rainstorms. With snow capping the high peaks and low angled winter light, this season is especially beautiful for exploring the valley.",
+      "name": "Death Valley",
+      "designation": "National Park"
+    },
+    {
+      "id": "2DC9444C-880F-4738-BA1F-6FB123935A02",
+      "url": "https://www.nps.gov/depo/index.htm",
+      "fullName": "Devils Postpile National Monument",
+      "parkCode": "depo",
+      "description": "Established in 1911 by presidential proclamation, Devils Postpile National Monument protects and preserves the Devils Postpile formation, the 101-foot high Rainbow Falls, and pristine mountain scenery. The formation is a rare sight in the geologic world and ranks as one of the world's finest examples of columnar basalt. Its' columns tower up to 60 feet and display a striking symmetry.",
+      "latitude": "37.6152564",
+      "longitude": "-119.0873903",
+      "latLong": "lat:37.6152564, long:-119.0873903",
+      "activities": [
+        {
+          "id": "13A57703-BB1A-41A2-94B8-53B692EB7238",
+          "name": "Astronomy"
+        },
+        {
+          "id": "D37A0003-8317-4F04-8FB0-4CF0A272E195",
+          "name": "Stargazing"
+        },
+        {
+          "id": "7CE6E935-F839-4FEC-A63E-052B1DEF39D2",
+          "name": "Biking"
+        },
+        {
+          "id": "8D778629-F603-4C50-A121-6F4BB2FE2C4B",
+          "name": "Road Biking"
+        },
+        {
+          "id": "A59947B7-3376-49B4-AD02-C0423E08C5F7",
+          "name": "Camping"
+        },
+        {
+          "id": "9159DF0F-951D-4AAE-9987-CEB3CE2A9ADA",
+          "name": "Car or Front Country Camping"
+        },
+        {
+          "id": "AE42B46C-E4B7-4889-A122-08FE180371AE",
+          "name": "Fishing"
+        },
+        {
+          "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+          "name": "Hiking"
+        },
+        {
+          "id": "45261C0A-00D8-4C27-A1F8-029F933A0D34",
+          "name": "Front-Country Hiking"
+        },
+        {
+          "id": "0307955A-B65C-4CE4-A780-EB36BAAADF0B",
+          "name": "Horse Trekking"
+        },
+        {
+          "id": "1886DA47-0AEC-4568-B9C2-8E9BC316AAAC",
+          "name": "Horseback Riding"
+        },
+        {
+          "id": "DF4A35E0-7983-4A3E-BC47-F37B872B0F25",
+          "name": "Junior Ranger Program"
+        },
+        {
+          "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+          "name": "Wildlife Watching"
+        }
+      ],
+      "topics": [
+        {
+          "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+          "name": "Animals"
+        },
+        {
+          "id": "4DC11D06-00F1-4A01-81D0-89CCCCE4FF50",
+          "name": "Climate Change"
+        },
+        {
+          "id": "04A39AB8-DD02-432F-AE5F-BA1267D41A0D",
+          "name": "Fire"
+        },
+        {
+          "id": "41B1A0A3-11FF-4F55-9CB9-034A7E28B087",
+          "name": "Forests and Woodlands"
+        },
+        {
+          "id": "762170E5-0747-4836-B837-7F2547D3F733",
+          "name": "Coniferous Forests"
+        },
+        {
+          "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+          "name": "Geology"
+        },
+        {
+          "id": "4BE01DC5-52E6-4F18-8C9A-B22D65965F6D",
+          "name": "Groundwater"
+        },
+        {
+          "id": "0E1A04CC-EB51-4F18-93D4-EC0B0B4EC1E3",
+          "name": "Freshwater Springs"
+        },
+        {
+          "id": "101F4D51-F99D-45A6-BBB6-CD481E5FACED",
+          "name": "Mountains"
+        },
+        {
+          "id": "F8C2FE93-DEB3-4B12-9A87-913E3E6B448D",
+          "name": "Natural Sounds"
+        },
+        {
+          "id": "A7359FC4-DAD8-45F5-AF15-7FF62F816ED3",
+          "name": "Night Sky"
+        },
+        {
+          "id": "E06F3C94-AC8A-4B1C-A247-8EBA8910D5EE",
+          "name": "Astronomy"
+        },
+        {
+          "id": "A155238F-0DD2-4610-9B87-05FCE1C59283",
+          "name": "River and Riparian"
+        },
+        {
+          "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+          "name": "Scenic Views"
+        },
+        {
+          "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+          "name": "Trails"
+        },
+        {
+          "id": "90F8744F-CD10-4925-955C-064CB1A17EB0",
+          "name": "Volcanoes"
+        },
+        {
+          "id": "BA12B386-49EA-46B0-9121-FCACACC47538",
+          "name": "Watersheds"
+        },
+        {
+          "id": "5ED826E0-76BB-47BB-87DD-E081A72B0A04",
+          "name": "Waterfalls"
+        },
+        {
+          "id": "1365C347-952C-475A-B755-731DD523C195",
+          "name": "Wetlands"
+        },
+        {
+          "id": "FD0BA21A-5F69-4688-9D4B-856DA242DC78",
+          "name": "Marshes"
+        },
+        {
+          "id": "86C6DC89-D311-44F8-A5BC-35F9FDC4AF1C",
+          "name": "Swamps"
+        },
+        {
+          "id": "B85866E2-0897-4000-9040-605CA335804F",
+          "name": "Wilderness"
+        }
+      ],
+      "states": "CA",
+      "contacts": {
+        "phoneNumbers": [
+          {
+            "phoneNumber": "7609342289",
+            "description": "",
+            "extension": "",
+            "type": "Voice"
+          }
+        ],
+        "emailAddresses": [
+          {
+            "description": "",
+            "emailAddress": "depo_visitor_information@nps.gov"
+          }
+        ]
+      },
+      "entranceFees": [
+        {
+          "cost": "15.00",
+          "description": "The Reds Meadow Shuttle Bus has provided transit service into the Reds Meadow Valley and to the Devils Postpile National Monument for over 30 years. Most visitors must ride the shuttle to access the Valley and Devils Postpile.",
+          "title": "Reds Meadow Shuttle Bus Day Pass - Adult"
+        },
+        {
+          "cost": "7.00",
+          "description": "The Reds Meadow Shuttle Bus has provided transit service into the Reds Meadow Valley and to the Devils Postpile National Monument for over 30 years. Most visitors must ride the shuttle to access the Valley and Devils Postpile.",
+          "title": "Reds Meadow Shuttle Bus Day Pass - Child (3-15)"
+        }
+      ],
+      "entrancePasses": [],
+      "fees": [],
+      "directionsInfo": "Shuttle Bus: Most visitors must park at the Mammoth Mountain Ski Area and use the mandatory shuttle. The shuttle bus operates from mid-June through the Wednesday after Labor Day. By car: From U.S. Highway 395, drive 10 miles west on S.R. 203 to Minaret Vista and then another 8 miles on a paved, steep mountain road. Please note that this road is single lane for approximately 3 miles. By plane: The closest commercial airport is the Mammoth Lakes/Yosemite Airport (MMH), located on U.S. Highway 395.",
+      "directionsUrl": "http://www.nps.gov/depo/planyourvisit/directions.htm",
+      "operatingHours": [
+        {
+          "exceptions": [
+            {
+              "exceptionHours": {
+                "wednesday": "Sunrise to Sunset",
+                "monday": "Sunrise to Sunset",
+                "thursday": "Sunrise to Sunset",
+                "sunday": "Sunrise to Sunset",
+                "tuesday": "Sunrise to Sunset",
+                "friday": "Sunrise to Sunset",
+                "saturday": "Sunrise to Sunset"
+              },
+              "startDate": "2021-10-16",
+              "name": "October No Overnight Parking",
+              "endDate": "2021-10-31"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2021-11-01",
+              "name": "Monument Closed",
+              "endDate": "2022-06-16"
+            }
+          ],
+          "description": "In the operating season, Devils Postpile National Monument is open 24 hours a day, 7 days a week. \n\nThe Monument usually opens in mid-June. By mid to late October, early winter storms in the High Sierra typically begin to bring snow to the area.",
+          "standardHours": {
+            "wednesday": "All Day",
+            "monday": "All Day",
+            "thursday": "All Day",
+            "sunday": "All Day",
+            "tuesday": "All Day",
+            "friday": "All Day",
+            "saturday": "All Day"
+          },
+          "name": "Devils Postpile National Monument"
+        }
+      ],
+      "addresses": [
+        {
+          "postalCode": "93546",
+          "city": "Mammoth Lakes",
+          "stateCode": "CA",
+          "line1": "Devils Postpile Access Road",
+          "type": "Physical",
+          "line3": "",
+          "line2": ""
+        },
+        {
+          "postalCode": "93546",
+          "city": "Mammoth Lakes",
+          "stateCode": "CA",
+          "line1": "PO Box 3999",
+          "type": "Mailing",
+          "line3": "",
+          "line2": ""
+        }
+      ],
+      "images": [
+        {
+          "credit": "NPS Photo",
+          "title": "Devils  Postpile Formation",
+          "altText": "The Devils Postpile basalt formation resembles tall columns.",
+          "caption": "Devils Postpile formation is one of many features to see at Devils Postpile National Monument.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7D873E-1DD8-B71B-0BF8E731254A9D7E.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "Hexagonal Fractures at the top of Devils Postpile",
+          "altText": "Hexagonal fractures that make up the columns at the postpile with glacial polish",
+          "caption": "Part of the popular loop trail will take you to this unique geologic formation.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/F9B64475-9206-D59D-8C35DD3725F2A20C.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "Rainbow Falls",
+          "altText": "Waterfall with faint rainbow",
+          "caption": "Rainbow Falls",
+          "url": "https://www.nps.gov/common/uploads/structured_data/F9CDDB94-F7AD-10EA-CBD1553A0E90404B.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "Soda Springs Meadow and San Joaquin River",
+          "altText": "Soda Springs Meadow and San Joaquin River",
+          "caption": "Soda Springs Meadow and San Joaquin River",
+          "url": "https://www.nps.gov/common/uploads/structured_data/FC50E2C7-ED14-4AB8-CC83A5AF15EE344D.jpg"
+        }
+      ],
+      "weatherInfo": "Devils Postpile National Monument is located at 7,560 feet above sea level just west of the Sierra Nevada crest. As such, it experiences typical summer weather in the Sierras. Afternoon thunderstorms are possible in July and August. Daytime temperatures can range from the mid-70s to to mid-80s (degrees Fahrenheit). Evening temperatures can drop into the low 40s (and even the low 30s in the months of September and October).",
+      "name": "Devils Postpile",
+      "designation": "National Monument"
+    },
+    {
+      "id": "353241CC-4C4A-4F9E-A928-EFDCE2C6E29A",
+      "url": "https://www.nps.gov/euon/index.htm",
+      "fullName": "Eugene O'Neill National Historic Site",
+      "parkCode": "euon",
+      "description": "America's only Nobel Prize winning playwright, Eugene O'Neill, chose to live in Northern California at the height of his writing career. Isolated from the world and within the walls of his home, O'Neill wrote his final and most memorable plays; The Iceman Cometh, Long Day's Journey Into Night, and A Moon for the Misbegotten.",
+      "latitude": "37.82604456",
+      "longitude": "-122.0271566",
+      "latLong": "lat:37.82604456, long:-122.0271566",
+      "activities": [
+        {
+          "id": "09DF0950-D319-4557-A57E-04CD2F63FF42",
+          "name": "Arts and Culture"
+        },
+        {
+          "id": "CE84DEFA-D692-4165-96DF-D5FF56002E2F",
+          "name": "Theater"
+        },
+        {
+          "id": "B33DC9B6-0B7D-4322-BAD7-A13A34C584A3",
+          "name": "Guided Tours"
+        },
+        {
+          "id": "A0631906-9672-4583-91DE-113B93DB6B6E",
+          "name": "Self-Guided Tours - Walking"
+        },
+        {
+          "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+          "name": "Museum Exhibits"
+        },
+        {
+          "id": "24380E3F-AD9D-4E38-BF13-C8EEB21893E7",
+          "name": "Shopping"
+        },
+        {
+          "id": "467DC8B8-0B7D-436D-A026-80A22358F615",
+          "name": "Bookstore and Park Store"
+        },
+        {
+          "id": "43800AD1-D439-40F3-AAB3-9FB651FE45BB",
+          "name": "Gift Shop and Souvenirs"
+        }
+      ],
+      "topics": [
+        {
+          "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+          "name": "Scenic Views"
+        }
+      ],
+      "states": "CA",
+      "contacts": {
+        "phoneNumbers": [
+          {
+            "phoneNumber": "925-228-8860",
+            "description": "",
+            "extension": "6422",
+            "type": "Voice"
+          },
+          {
+            "phoneNumber": "9258389471",
+            "description": "",
+            "extension": "",
+            "type": "Fax"
+          }
+        ],
+        "emailAddresses": [
+          {
+            "description": "",
+            "emailAddress": "euon_general_info@nps.gov"
+          }
+        ]
+      },
+      "entranceFees": [
+        {
+          "cost": "0.00",
+          "description": "There are no entrance fees for this site. Entrance is by reservation only.",
+          "title": "Eugene O'Neill National Historic Site"
+        }
+      ],
+      "entrancePasses": [
+        {
+          "cost": "0.00",
+          "description": "Passes are not required or sold at this site. Entrance is by reservations only.",
+          "title": "Eugne O'Neill National Historic Site"
+        }
+      ],
+      "fees": [],
+      "directionsInfo": "Reservations are required to visit the site. We offer a free shuttle that will pick up visitors in downtown Danville, CA. The shuttle meets at 205 Railroad Avenue outside the Museum of the San Ramon Valley. Parking is available next to the museum. Reservations can be made by calling (925)228-8860 x6422 or send your reservation request by e-mail.",
+      "directionsUrl": "http://www.nps.gov/euon/planyourvisit/directions.htm",
+      "operatingHours": [
+        {
+          "exceptions": [
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2022-01-01",
+              "name": "New Year's Day",
+              "endDate": "2022-01-01"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2021-11-25",
+              "name": "Thanksgiving",
+              "endDate": "2021-11-25"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2021-12-25",
+              "name": "Christmas Day",
+              "endDate": "2021-12-25"
+            }
+          ],
+          "description": "Eugene O'Neill National Historic Site must be accessed through a private, gated road owned by a community of neighboring residents. In order to experience Eugene O'Neill National Historic Site, visitors need to make reservations and will be driven by a park shuttle from the Town of Danville, California. You'll receive a tour of Eugene O'Neill's \"Tao House\" and have time to explore the grounds before returning to Danville on the shuttle.",
+          "standardHours": {
+            "wednesday": "10:00AM - 5:00PM",
+            "monday": "Closed",
+            "thursday": "10:00AM - 5:00PM",
+            "sunday": "10:00AM - 5:00PM",
+            "tuesday": "Closed",
+            "friday": "10:00AM - 5:00PM",
+            "saturday": "10:00AM - 5:00PM"
+          },
+          "name": "Eugene O'Neill National Historic Site"
+        }
+      ],
+      "addresses": [
+        {
+          "postalCode": "94526",
+          "city": "Danville",
+          "stateCode": "CA",
+          "line1": "205 Railroad Avenue",
+          "type": "Physical",
+          "line3": "",
+          "line2": ""
+        },
+        {
+          "postalCode": "94526",
+          "city": "Danville",
+          "stateCode": "CA",
+          "line1": "Eugene O'Neill NHS",
+          "type": "Mailing",
+          "line3": "",
+          "line2": "P.O. Box 280"
+        }
+      ],
+      "images": [
+        {
+          "credit": "NPS Photo",
+          "title": "Eugene O'Neill Home in Danville, California",
+          "altText": "Eugene O'Neill Home in Danville, California",
+          "caption": "Eugene O'Neill Home in Danville, California",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7A0334-1DD8-B71B-0B8C905A1ABBFE6A.jpg"
+        },
+        {
+          "credit": "NPS photo, Luther Bailey",
+          "title": "Old Barn",
+          "altText": "An old barn and an historic wheeled wagon sit in front of a tree-lined hill.",
+          "caption": "The \"Old Barn\", a part of the Eugene O'Neill National Historic Site",
+          "url": "https://www.nps.gov/common/uploads/structured_data/F7364830-D782-009D-8315AD90F83E6295.jpg"
+        },
+        {
+          "credit": "NPS photo, Luther Bailey",
+          "title": "Eugene O'Neill National Historic Site",
+          "altText": "A tree is seen sitting against a small mountain background. A fence runs along the right side.",
+          "caption": "Mountain background as seen from the park.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/F74F52B7-E815-73A5-96DA655EBF7F519F.jpg"
+        },
+        {
+          "credit": "NPS photo, Luther Bailey",
+          "title": "Eugene O'Neill National Historic Site",
+          "altText": "A sign with the park name is sitting in a field of trees.",
+          "caption": "The Eugene O'Neill NHS park sign.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/F76C27C3-E4FE-C61A-C59AE9E48C3A714B.jpg"
+        },
+        {
+          "credit": "NPS Collection.",
+          "title": "Eugene O'Neill",
+          "altText": "Eugene O'Neill, and older man, poses outside against a hilly background.",
+          "caption": "Historic image of Eugene O'Neill at the Tao House property.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/F78E744F-0391-68F7-BAA5B9D3EE9569E4.jpg"
+        }
+      ],
+      "weatherInfo": "The Mediterranean climate of Danville features hot, dry summers with lower temperatures near 60º F and upper temperatures near 100º F. The heat gives way to cool, rainy winters with lows near 45º F and highs near 75º F. Fall and spring can bring rain and temperatures from 55-80º F.",
+      "name": "Eugene O'Neill",
+      "designation": "National Historic Site"
+    },
+    {
+      "id": "7FF57085-3B53-498D-86B5-96F5F1493A06",
+      "url": "https://www.nps.gov/fopo/index.htm",
+      "fullName": "Fort Point National Historic Site",
+      "parkCode": "fopo",
+      "description": "From its vantage point overlooking the spectacular Golden Gate, Fort Point defended the San Francisco Bay following California's Gold Rush through World War II. Its beautifully arched casemates display the art of 3rd system brick masonry and interacts gracefully with the Golden Gate Bridge.",
+      "latitude": "37.80837439",
+      "longitude": "-122.473747",
+      "latLong": "lat:37.80837439, long:-122.473747",
+      "activities": [
+        {
+          "id": "09DF0950-D319-4557-A57E-04CD2F63FF42",
+          "name": "Arts and Culture"
+        },
+        {
+          "id": "CE84DEFA-D692-4165-96DF-D5FF56002E2F",
+          "name": "Theater"
+        },
+        {
+          "id": "AE42B46C-E4B7-4889-A122-08FE180371AE",
+          "name": "Fishing"
+        },
+        {
+          "id": "B204DE60-5A24-43DD-8902-C81625A09A74",
+          "name": "Living History"
+        },
+        {
+          "id": "237A1662-6018-4115-ABD1-B8CCF827E703",
+          "name": "Historic Weapons Demonstration"
+        },
+        {
+          "id": "0C0D142F-06B5-4BE1-8B44-491B90F93DEB",
+          "name": "Park Film"
+        },
+        {
+          "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+          "name": "Museum Exhibits"
+        }
+      ],
+      "topics": [
+        {
+          "id": "69693007-2DF2-4EDE-BB3B-A25EBA72BDF5",
+          "name": "Architecture and Building"
+        },
+        {
+          "id": "28AEAE85-9DDA-45B6-981B-1CFCDCC61E14",
+          "name": "African American Heritage"
+        },
+        {
+          "id": "988B4AFC-F478-4673-B66D-E6BDB0CCFF35",
+          "name": "Forts"
+        },
+        {
+          "id": "4C9D4777-A9DA-47D1-A0B9-F4A3C98BC1B3",
+          "name": "Maritime"
+        },
+        {
+          "id": "123CE28E-0EFA-4330-8E6E-EEFF3D7BF772",
+          "name": "Coastal Defenses"
+        },
+        {
+          "id": "7424754D-EB8B-4608-A69A-50D44992931B",
+          "name": "Maritime - Military"
+        },
+        {
+          "id": "263BAC6E-4DEC-47E4-909D-DA8AD351E06E",
+          "name": "Lighthouses"
+        },
+        {
+          "id": "A079385C-3E71-4E18-9E42-B046BC22EA95",
+          "name": "Ships and Shipwrecks"
+        },
+        {
+          "id": "3B0D607D-9933-425A-BFA0-21529AC4734C",
+          "name": "Military"
+        },
+        {
+          "id": "B145FAB8-5462-4FE2-964E-464D3A5E7F96",
+          "name": "Artillery"
+        },
+        {
+          "id": "97CCB419-196C-4B95-BB3A-621458F78415",
+          "name": "US Army"
+        },
+        {
+          "id": "27BF8807-54EA-4A3D-B073-AA7AA361CD7E",
+          "name": "Wars and Conflicts"
+        },
+        {
+          "id": "A8E54356-20CD-490E-B34D-AC6A430E6F47",
+          "name": "Civil War"
+        },
+        {
+          "id": "74869FAE-8DFD-4454-847F-11FDDB679F94",
+          "name": "World War II"
+        },
+        {
+          "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+          "name": "Scenic Views"
+        }
+      ],
+      "states": "CA",
+      "contacts": {
+        "phoneNumbers": [
+          {
+            "phoneNumber": "(415) 561-4959",
+            "description": "",
+            "extension": "",
+            "type": "Voice"
+          }
+        ],
+        "emailAddresses": [
+          {
+            "description": "",
+            "emailAddress": "goga_fopo_socialmedia@nps.gov"
+          }
+        ]
+      },
+      "entranceFees": [
+        {
+          "cost": "0.00",
+          "description": "There is no charge to visit Fort Point.",
+          "title": "Entry to Fort Point is FREE!"
+        }
+      ],
+      "entrancePasses": [],
+      "fees": [],
+      "directionsInfo": "Fort Point is located at the south anchorage of the Golden Gate Bridge at the end of Marine Drive on the Presidio of San Francisco. By car take Highway 101 N or S, exit at the Golden Gate Bridge toll plaza at south end of bridge. From S turn right at end of exit ramp, or from N go straight on Merchant Drive. Turn left onto Lincoln Boulevard. Take a left onto Long Avenue and follow onto Marine Drive.",
+      "directionsUrl": "http://www.nps.gov/fopo/planyourvisit/directions.htm",
+      "operatingHours": [
+        {
+          "exceptions": [
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2022-01-01",
+              "name": "New Year's Day",
+              "endDate": "2022-01-01"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2021-11-25",
+              "name": "Thanksgiving",
+              "endDate": "2021-11-25"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2021-12-25",
+              "name": "Christmas Day",
+              "endDate": "2021-12-25"
+            }
+          ],
+          "description": "The days in which Fort Point is open varies throughout the year. Fall through Spring the fort is generally open Friday through Sunday. During the summer season the fort is open 5 days a week most years. The timing of the shift in days is not consistent from year to year but generally occurs in October and May. Hours are 10 am to 5 pm. Closed on Thanksgiving, Christmas, and New Year's Day. Visit our web site for current open days.",
+          "standardHours": {
+            "wednesday": "Closed",
+            "monday": "10:00AM - 5:00PM",
+            "thursday": "Closed",
+            "sunday": "10:00AM - 5:00PM",
+            "tuesday": "Closed",
+            "friday": "10:00AM - 5:00PM",
+            "saturday": "10:00AM - 5:00PM"
+          },
+          "name": "Fort Point National Historic Site"
+        }
+      ],
+      "addresses": [
+        {
+          "postalCode": "94129",
+          "city": "San Francisco",
+          "stateCode": "CA",
+          "line1": "Fort Point National Historic Site",
+          "type": "Physical",
+          "line3": "",
+          "line2": "Building 999, Marine Drive"
+        },
+        {
+          "postalCode": "94123",
+          "city": "San Francisco",
+          "stateCode": "CA",
+          "line1": "Fort Point National Historic Site",
+          "type": "Mailing",
+          "line3": "",
+          "line2": "Building 201, Fort Mason"
+        }
+      ],
+      "images": [
+        {
+          "credit": "NPS photo/Will Elder",
+          "title": "Fort Point from Marine Drive",
+          "altText": "Fort Point with visitors approaching on road in front and Golden Gate Bridge above.",
+          "caption": "Fort Point offers stunning views from under the south end of the Golden Gate Bridge.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C800CC0-1DD8-B71B-0B80D91C47D8ACE5.jpg"
+        },
+        {
+          "credit": "NPS photo/Will Elder",
+          "title": "Fort Point Sunset View",
+          "altText": "Golden sunset light on the roof of Fort Point with Golden Gate Bridge and bay behind.",
+          "caption": "Visitors can enjoy winter sunsets from the top of Fort Point.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C801171-1DD8-B71B-0BE6AFF91B05532B.jpg"
+        },
+        {
+          "credit": "NPS photo/Will Elder",
+          "title": "Brick Casemates",
+          "altText": "Arched red brick casemates extend into the distance at Fort Point.",
+          "caption": "Fort Point is known for its masterful masonry work.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C80132D-1DD8-B71B-0BAE3D20C07909AD.jpg"
+        },
+        {
+          "credit": "NPS Photo/Will Elder",
+          "title": "Civil War Days at Fort Point",
+          "altText": "A cannon stands in front of Civil War re-enactors talking to the public.",
+          "caption": "Visitors can interact with Civil War re-enactors twice in January and August at the Fort.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C801528-1DD8-B71B-0B869B86127D73A4.jpg"
+        },
+        {
+          "credit": "NPS photo/Will Elder",
+          "title": "Fort Point Lighthouse",
+          "altText": "View of Fort Point lighthouse through red brick arches",
+          "caption": "Fort Point has a historic lighthouse mounted on its top.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C8017DE-1DD8-B71B-0B1115FD23682551.jpg"
+        }
+      ],
+      "weatherInfo": "Fort Point is typically cold and windy throughout the year. Fog is especially common in the summer months. Come prepared with layers and windbreakers for maximum comfort.",
+      "name": "Fort Point",
+      "designation": "National Historic Site"
+    },
+    {
+      "id": "0E797FA8-6E31-418B-A68F-13CEE37A2AF5",
+      "url": "https://www.nps.gov/goga/index.htm",
+      "fullName": "Golden Gate National Recreation Area",
+      "parkCode": "goga",
+      "description": "Experience a park so rich it supports 19 distinct ecosystems with over 2,000 plant and animal species. Go for a hike, enjoy a vista, have a picnic or learn about the centuries of overlapping history from California’s indigenous cultures, Spanish colonialism, the Mexican Republic, US military expansion and the growth of San Francisco. All of this and more awaits you, so get out and find your park.",
+      "latitude": "37.85982543",
+      "longitude": "-122.6007386",
+      "latLong": "lat:37.85982543, long:-122.6007386",
+      "activities": [
+        {
+          "id": "09DF0950-D319-4557-A57E-04CD2F63FF42",
+          "name": "Arts and Culture"
+        },
+        {
+          "id": "7CE6E935-F839-4FEC-A63E-052B1DEF39D2",
+          "name": "Biking"
+        },
+        {
+          "id": "299CB934-88DC-474F-A33D-E43E29A149C2",
+          "name": "Mountain Biking"
+        },
+        {
+          "id": "A59947B7-3376-49B4-AD02-C0423E08C5F7",
+          "name": "Camping"
+        },
+        {
+          "id": "9159DF0F-951D-4AAE-9987-CEB3CE2A9ADA",
+          "name": "Car or Front Country Camping"
+        },
+        {
+          "id": "7CFF5F03-5ECC-4F5A-8572-75D1F0976C0C",
+          "name": "Group Camping"
+        },
+        {
+          "id": "AE42B46C-E4B7-4889-A122-08FE180371AE",
+          "name": "Fishing"
+        },
+        {
+          "id": "17411C8D-5769-4D0F-ABD1-52ED03840C18",
+          "name": "Saltwater Fishing"
+        },
+        {
+          "id": "1DFACD97-1B9C-4F5A-80F2-05593604799E",
+          "name": "Food"
+        },
+        {
+          "id": "E53E1320-9B17-41DC-86A5-37EB7D622572",
+          "name": "Dining"
+        },
+        {
+          "id": "C6D3230A-2CEA-4AFE-BFF3-DC1E2C2C4BB4",
+          "name": "Picnicking"
+        },
+        {
+          "id": "B33DC9B6-0B7D-4322-BAD7-A13A34C584A3",
+          "name": "Guided Tours"
+        },
+        {
+          "id": "A0631906-9672-4583-91DE-113B93DB6B6E",
+          "name": "Self-Guided Tours - Walking"
+        },
+        {
+          "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+          "name": "Hiking"
+        },
+        {
+          "id": "45261C0A-00D8-4C27-A1F8-029F933A0D34",
+          "name": "Front-Country Hiking"
+        },
+        {
+          "id": "0307955A-B65C-4CE4-A780-EB36BAAADF0B",
+          "name": "Horse Trekking"
+        },
+        {
+          "id": "1886DA47-0AEC-4568-B9C2-8E9BC316AAAC",
+          "name": "Horseback Riding"
+        },
+        {
+          "id": "B204DE60-5A24-43DD-8902-C81625A09A74",
+          "name": "Living History"
+        },
+        {
+          "id": "A8650547-1A30-4222-86C3-A7660A829670",
+          "name": "Reenactments"
+        },
+        {
+          "id": "DF4A35E0-7983-4A3E-BC47-F37B872B0F25",
+          "name": "Junior Ranger Program"
+        },
+        {
+          "id": "AE3C95F5-E05B-4A28-81DD-1C5FD4BE88E2",
+          "name": "Surfing"
+        },
+        {
+          "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+          "name": "Wildlife Watching"
+        },
+        {
+          "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+          "name": "Birdwatching"
+        },
+        {
+          "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+          "name": "Museum Exhibits"
+        },
+        {
+          "id": "24380E3F-AD9D-4E38-BF13-C8EEB21893E7",
+          "name": "Shopping"
+        },
+        {
+          "id": "467DC8B8-0B7D-436D-A026-80A22358F615",
+          "name": "Bookstore and Park Store"
+        }
+      ],
+      "topics": [
+        {
+          "id": "69693007-2DF2-4EDE-BB3B-A25EBA72BDF5",
+          "name": "Architecture and Building"
+        },
+        {
+          "id": "28AEAE85-9DDA-45B6-981B-1CFCDCC61E14",
+          "name": "African American Heritage"
+        },
+        {
+          "id": "7F81A0CB-B91F-4896-B9A5-41BE9A54A27B",
+          "name": "Archeology"
+        },
+        {
+          "id": "A0C86055-4C79-4F70-9D2E-6B9B738290D0",
+          "name": "Ruins"
+        },
+        {
+          "id": "00F3C3F9-2D67-4802-81AE-CCEA5D3BA370",
+          "name": "Arts"
+        },
+        {
+          "id": "9BD60DC0-C82B-42BA-A170-456B7423429D",
+          "name": "Photography"
+        },
+        {
+          "id": "227D2677-28CA-4CBF-997F-61108975A497",
+          "name": "Asian American Heritage"
+        },
+        {
+          "id": "B912363F-771C-4098-BA3A-938DF38A9D7E",
+          "name": "Aviation"
+        },
+        {
+          "id": "607D41B0-F830-4C07-A557-BCEF880A3929",
+          "name": "Burial, Cemetery and Gravesite"
+        },
+        {
+          "id": "570E8E93-3A49-45FB-B11A-F2F984EAC862",
+          "name": "National Cemetery"
+        },
+        {
+          "id": "7F12224B-217A-4B07-A4A2-636B1CE7F221",
+          "name": "Colonization and Settlement"
+        },
+        {
+          "id": "D9FC6D14-F8C7-4EBA-86EA-DFD99B6BB4F5",
+          "name": "Enslavement"
+        },
+        {
+          "id": "12EA2B56-17EC-410A-A10D-BFBA87A0669B",
+          "name": "Explorers and Expeditions"
+        },
+        {
+          "id": "1F833C99-A75D-4F9E-9256-B96523485466",
+          "name": "Farming and  Agriculture"
+        },
+        {
+          "id": "988B4AFC-F478-4673-B66D-E6BDB0CCFF35",
+          "name": "Forts"
+        },
+        {
+          "id": "78078CA8-DCBC-4320-A7BF-259A56D55CA2",
+          "name": "Hispanic American Heritage"
+        },
+        {
+          "id": "351EE154-87AA-46B0-BBA1-ED604368ACE9",
+          "name": "Incarceration"
+        },
+        {
+          "id": "50A3D2B2-C922-4749-89F1-E986A5D520AC",
+          "name": "Jails and Prisons"
+        },
+        {
+          "id": "367BC636-6F02-4F1B-BEAA-5A20E46C7207",
+          "name": "Japanese-American Internment"
+        },
+        {
+          "id": "0B575E33-B68F-4F3D-998E-B03284606CF3",
+          "name": "Industry"
+        },
+        {
+          "id": "FE2FF71D-E850-460E-A727-27B292BF1603",
+          "name": "Logging and Timber Cutting"
+        },
+        {
+          "id": "2B428F59-9148-40C1-B38E-130589F2540E",
+          "name": "Immigration"
+        },
+        {
+          "id": "9FCC01C6-F068-4A05-9A78-23FEBFADAF56",
+          "name": "Latino American Heritage"
+        },
+        {
+          "id": "E0AB480F-3A94-4DC1-8B21-9555F2C59B32",
+          "name": "LGBTQ American Heritage"
+        },
+        {
+          "id": "4C9D4777-A9DA-47D1-A0B9-F4A3C98BC1B3",
+          "name": "Maritime"
+        },
+        {
+          "id": "123CE28E-0EFA-4330-8E6E-EEFF3D7BF772",
+          "name": "Coastal Defenses"
+        },
+        {
+          "id": "7424754D-EB8B-4608-A69A-50D44992931B",
+          "name": "Maritime - Military"
+        },
+        {
+          "id": "263BAC6E-4DEC-47E4-909D-DA8AD351E06E",
+          "name": "Lighthouses"
+        },
+        {
+          "id": "A079385C-3E71-4E18-9E42-B046BC22EA95",
+          "name": "Ships and Shipwrecks"
+        },
+        {
+          "id": "4B3CD083-7500-434B-A8C2-D355925E0245",
+          "name": "Medicine"
+        },
+        {
+          "id": "97716EF5-D001-449C-993A-EC15AB8FD345",
+          "name": "Hospital"
+        },
+        {
+          "id": "69E16062-0E4F-4DE0-91FB-E4EDB2484572",
+          "name": "Migrations"
+        },
+        {
+          "id": "3B0D607D-9933-425A-BFA0-21529AC4734C",
+          "name": "Military"
+        },
+        {
+          "id": "E411F474-A530-4804-9D23-1D94C78B41E4",
+          "name": "Infantry and Militia"
+        },
+        {
+          "id": "B145FAB8-5462-4FE2-964E-464D3A5E7F96",
+          "name": "Artillery"
+        },
+        {
+          "id": "69790851-A62A-4920-AA3E-E61406FFC27D",
+          "name": "Cavalry"
+        },
+        {
+          "id": "97CCB419-196C-4B95-BB3A-621458F78415",
+          "name": "US Army"
+        },
+        {
+          "id": "D164D82F-4031-4BCB-90A8-B388502CA308",
+          "name": "US Coast Guard"
+        },
+        {
+          "id": "BEB7E470-13B2-4E00-84B2-0402D98DAF69",
+          "name": "Monuments and Memorials"
+        },
+        {
+          "id": "A1BAF33E-EA84-4608-A888-4CEE9541F027",
+          "name": "Native American Heritage"
+        },
+        {
+          "id": "518B32FB-339D-4C52-B2C2-04BF406AA4B0",
+          "name": "Religion and Spirituality"
+        },
+        {
+          "id": "039CDC0F-6408-473D-9C9F-83B3B8A1E069",
+          "name": "Missions"
+        },
+        {
+          "id": "D1CF31DE-AFED-412B-9425-DD1FD4CBB5C7",
+          "name": "Science, Technology and Innovation"
+        },
+        {
+          "id": "40C0866A-3890-41A4-84CA-5935DEE181AE",
+          "name": "Social Movements"
+        },
+        {
+          "id": "5CCB14BC-2AC4-45CE-B786-54A065DA1B60",
+          "name": "Abolition Movement"
+        },
+        {
+          "id": "8F34C3EC-7B8E-4F28-8114-B8DFE4F300DF",
+          "name": "Civil Rights"
+        },
+        {
+          "id": "4C0EBDE7-EB73-4252-84D9-0650974EC3E5",
+          "name": "Conservation Movement"
+        },
+        {
+          "id": "FE2C2613-B41E-4531-BC43-03EB6E45CBCF",
+          "name": "Transportation"
+        },
+        {
+          "id": "1015393C-D7B0-47F3-86FB-786F30368CA2",
+          "name": "Bridges"
+        },
+        {
+          "id": "A160B3D9-1603-4D89-B82F-21FCAF9EEE3B",
+          "name": "Tragic Events"
+        },
+        {
+          "id": "C373F02B-7335-4F8A-A3ED-3E2E37CD4085",
+          "name": "Catastrophic Fires"
+        },
+        {
+          "id": "8CDF78C9-F91A-4ACD-AE70-4FF186F616CE",
+          "name": "Forced Marches"
+        },
+        {
+          "id": "846E5C56-E5AC-489C-B3BF-11F4C73F12C2",
+          "name": "Urban America"
+        },
+        {
+          "id": "27BF8807-54EA-4A3D-B073-AA7AA361CD7E",
+          "name": "Wars and Conflicts"
+        },
+        {
+          "id": "B564E9AA-95E9-4648-A7D1-48F94BFBEBB5",
+          "name": "Tribal Conflicts"
+        },
+        {
+          "id": "3D2EE3E9-7344-416C-A412-C2C7CDCDE684",
+          "name": "Colonial/European Contact Conflicts"
+        },
+        {
+          "id": "E2D07F67-8499-4B0D-A079-14E93484C20F",
+          "name": "Mexican War"
+        },
+        {
+          "id": "53798A16-7CDB-4F17-9C28-095F92D2ED8D",
+          "name": "Indian and Frontier Wars"
+        },
+        {
+          "id": "A8E54356-20CD-490E-B34D-AC6A430E6F47",
+          "name": "Civil War"
+        },
+        {
+          "id": "A28F8700-794E-4BA3-A8D7-7D75D53A4B17",
+          "name": "Spanish-American War"
+        },
+        {
+          "id": "4EC51024-F0D9-479D-AF3F-344CC0153D2E",
+          "name": "World War I"
+        },
+        {
+          "id": "74869FAE-8DFD-4454-847F-11FDDB679F94",
+          "name": "World War II"
+        },
+        {
+          "id": "D2D3201A-8C12-4CD6-B47D-E982633C8524",
+          "name": "Vietnam War"
+        },
+        {
+          "id": "A764E57D-9925-4855-8D66-C60357946FC3",
+          "name": "Cold War"
+        },
+        {
+          "id": "C9C749E3-39C3-45F7-BCC5-9A609E30AA05",
+          "name": "Westward Expansion"
+        },
+        {
+          "id": "83DDFE66-914E-4402-AD3E-ACA731AB2537",
+          "name": "The Gold Rush"
+        },
+        {
+          "id": "7DA81DAB-5045-4953-9C20-36590AD9FA95",
+          "name": "Women's History"
+        },
+        {
+          "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+          "name": "Animals"
+        },
+        {
+          "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+          "name": "Birds"
+        },
+        {
+          "id": "1608649A-E7D7-4529-BD83-074C90F9FB68",
+          "name": "Fish"
+        },
+        {
+          "id": "393F60FB-80D6-46F7-B0FB-BBF3C90F59FD",
+          "name": "Tortoises and Turtles"
+        },
+        {
+          "id": "4DC11D06-00F1-4A01-81D0-89CCCCE4FF50",
+          "name": "Climate Change"
+        },
+        {
+          "id": "46FC5CBD-9AD5-48F1-B4DA-1357031B1D2E",
+          "name": "Coasts, Islands and Atolls"
+        },
+        {
+          "id": "CDD8F34E-3BD4-425A-8264-4F0BA0DFBA38",
+          "name": "Dunes"
+        },
+        {
+          "id": "F79C1242-80FF-40F0-A0C1-5FFCBA172EC0",
+          "name": "Estuaries and Mangroves"
+        },
+        {
+          "id": "04A39AB8-DD02-432F-AE5F-BA1267D41A0D",
+          "name": "Fire"
+        },
+        {
+          "id": "9F6A7003-59D6-4438-935F-760FD04C1073",
+          "name": "Foothills, Plains and Valleys"
+        },
+        {
+          "id": "41B1A0A3-11FF-4F55-9CB9-034A7E28B087",
+          "name": "Forests and Woodlands"
+        },
+        {
+          "id": "762170E5-0747-4836-B837-7F2547D3F733",
+          "name": "Coniferous Forests"
+        },
+        {
+          "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+          "name": "Geology"
+        },
+        {
+          "id": "94262026-92F5-48E9-90EF-01CEAEFBA4FF",
+          "name": "Grasslands"
+        },
+        {
+          "id": "1AEDC86F-5792-487F-8CDF-9E92CAB97ACE",
+          "name": "Prairies"
+        },
+        {
+          "id": "F8C2FE93-DEB3-4B12-9A87-913E3E6B448D",
+          "name": "Natural Sounds"
+        },
+        {
+          "id": "0E6D8503-CB65-467F-BCD6-C6D9E28A4E0B",
+          "name": "Oceans"
+        },
+        {
+          "id": "980D1693-65BF-4F29-8182-7BAC9796E605",
+          "name": "Whales"
+        },
+        {
+          "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+          "name": "Scenic Views"
+        },
+        {
+          "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+          "name": "Trails"
+        },
+        {
+          "id": "78E4F4AC-AF97-435A-8C2C-7FB8D67516ED",
+          "name": "Unique Species"
+        },
+        {
+          "id": "996BEDAE-CB23-4003-B008-3A1F46A72263",
+          "name": "Rare"
+        },
+        {
+          "id": "489D6333-FD72-44DF-83B0-3D4412DD0A75",
+          "name": "Endangered"
+        },
+        {
+          "id": "BA12B386-49EA-46B0-9121-FCACACC47538",
+          "name": "Watersheds"
+        },
+        {
+          "id": "1365C347-952C-475A-B755-731DD523C195",
+          "name": "Wetlands"
+        },
+        {
+          "id": "FD0BA21A-5F69-4688-9D4B-856DA242DC78",
+          "name": "Marshes"
+        }
+      ],
+      "states": "CA",
+      "contacts": {
+        "phoneNumbers": [
+          {
+            "phoneNumber": "4155614700",
+            "description": "",
+            "extension": "",
+            "type": "Voice"
+          }
+        ],
+        "emailAddresses": [
+          {
+            "description": "",
+            "emailAddress": "goga_socialmedia_goga@nps.gov"
+          }
+        ]
+      },
+      "entranceFees": [
+        {
+          "cost": "0.00",
+          "description": "With the exception of the entrance fee for Muir Woods National Monument and the cost of the ferry to visit Alcatraz Island, there is no fee to visit lands of Golden Gate National Recreation Area.",
+          "title": "Visiting Golden Gate is free except for Alcatraz Island and Muir Woods National Monument."
+        }
+      ],
+      "entrancePasses": [],
+      "fees": [],
+      "directionsInfo": "Golden Gate National Recreation Area has many sites that span over 60 miles of mostly coastal areas north and south of San Francisco. Park areas can be reached by Highways 1, 101 and 280 from the north and south San Francisco Bay Area, and by Highway 80 from the East Bay. To access park headquarters at Fort Mason, please use the entrance at Franklin and Bay Streets in San Francisco.",
+      "directionsUrl": "http://www.nps.gov/goga/planyourvisit/directions.htm",
+      "operatingHours": [
+        {
+          "exceptions": [],
+          "description": "Although this urban park is accessible 24 hours a day in most areas, most parking lots are open between sunrise to sunset.",
+          "standardHours": {
+            "wednesday": "All Day",
+            "monday": "All Day",
+            "thursday": "All Day",
+            "sunday": "All Day",
+            "tuesday": "All Day",
+            "friday": "All Day",
+            "saturday": "All Day"
+          },
+          "name": "Parking Lots"
+        },
+        {
+          "exceptions": [],
+          "description": "These areas are open from 6 a.m. until 1 hour after sunset.\n\n\nMarin County: \n- Conzelman Rd (west, between traffic circle and Field Rd.)\n- Kirby Cove (except registered campers with permits)\n- Muir Beach\n- Muir Beach Overlook\n- Stinson Beach\n\n\nSan Francisco County\n- Fort Point (north of the gate and adjacent areas)\n- China Beach\n- Fort Mason – Black Point Stairway to Van Ness Ave.\n- Lands End\n- Sutro Heights Park",
+          "standardHours": {
+            "wednesday": "6:00AM - Sunset",
+            "monday": "6:00AM - Sunset",
+            "thursday": "6:00AM - Sunset",
+            "sunday": "6:00AM - Sunset",
+            "tuesday": "6:00AM - Sunset",
+            "friday": "6:00AM - Sunset",
+            "saturday": "6:00AM - Sunset"
+          },
+          "name": "Day Use Areas"
+        },
+        {
+          "exceptions": [],
+          "description": "Muir Woods National Monument is open daily with hours varying throughout the year. Please check the Muir Woods National Monument park website for the most current, up to date information. \n\nIn accordance with CDC, state, and local public health guidance related to COVID-19, these hours and availability of programs may vary.",
+          "standardHours": {
+            "wednesday": "9:00AM - 6:00PM",
+            "monday": "9:00AM - 6:00PM",
+            "thursday": "9:00AM - 6:00PM",
+            "sunday": "9:00AM - 6:00PM",
+            "tuesday": "9:00AM - 6:00PM",
+            "friday": "9:00AM - 6:00PM",
+            "saturday": "9:00AM - 6:00PM"
+          },
+          "name": "Muir Woods National Monument"
+        },
+        {
+          "exceptions": [
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2022-01-01",
+              "name": "Closed due to Covid-19",
+              "endDate": "2022-07-01"
+            }
+          ],
+          "description": "The Point Bonita Lighthouse is open Sundays and Mondays between 12:30 pm and 3:30pm unless otherwise noted. \n\nIn accordance with CDC, state, and local public health guidance related to COVID-19, these hours may vary.",
+          "standardHours": {
+            "wednesday": "Closed",
+            "monday": "12:30PM - 3:30PM",
+            "thursday": "Closed",
+            "sunday": "12:30PM - 3:30PM",
+            "tuesday": "Closed",
+            "friday": "Closed",
+            "saturday": "12:30PM - 3:30PM"
+          },
+          "name": "Point Bonita Lighthouse (beyond the tunnel)"
+        },
+        {
+          "exceptions": [
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2022-01-01",
+              "name": "Closed due to Covid-19",
+              "endDate": "2022-02-28"
+            }
+          ],
+          "description": "The Nike Missile Site in the Marin Headlands is open Fridays and Saturdays from 12:30 to 3:30 pm for demonstrations and programs, unless otherwise posted.",
+          "standardHours": {
+            "wednesday": "Closed",
+            "monday": "Closed",
+            "thursday": "Closed",
+            "sunday": "Closed",
+            "tuesday": "Closed",
+            "friday": "12:30PM - 3:30PM",
+            "saturday": "12:30PM - 3:30PM"
+          },
+          "name": "Nike Missile Site"
+        },
+        {
+          "exceptions": [
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2022-01-01",
+              "name": "Closed due to Covid-19",
+              "endDate": "2022-05-31"
+            }
+          ],
+          "description": "On the first Saturday of the month Battery Townsley is open between 1:00pm to 4:00pm for demonstrations and programs.",
+          "standardHours": {
+            "wednesday": "Closed",
+            "monday": "Closed",
+            "thursday": "Closed",
+            "sunday": "Closed",
+            "tuesday": "Closed",
+            "friday": "Closed",
+            "saturday": "1:00PM - 4:00PM"
+          },
+          "name": "Battery Townsley"
+        },
+        {
+          "exceptions": [
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2022-01-01",
+              "name": "New Year's Day",
+              "endDate": "2022-01-01"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2021-11-25",
+              "name": "Thanksgiving",
+              "endDate": "2021-11-25"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2021-12-25",
+              "name": "Christmas",
+              "endDate": "2021-12-25"
+            }
+          ],
+          "description": "Fort Point National Historic Site is open Fridays, Saturdays and Sundays from 10:00 am to 5:00 pm unless otherwise noted. \n\nIn accordance with CDC, state, and local public health guidance related to COVID-19, these hours and availability of programs may vary.",
+          "standardHours": {
+            "wednesday": "Closed",
+            "monday": "Closed",
+            "thursday": "Closed",
+            "sunday": "10:00AM - 5:00PM",
+            "tuesday": "Closed",
+            "friday": "10:00AM - 5:00PM",
+            "saturday": "10:00AM - 5:00PM"
+          },
+          "name": "Fort Point National Historic Site"
+        }
+      ],
+      "addresses": [
+        {
+          "postalCode": "94123-0022",
+          "city": "San Francisco",
+          "stateCode": "CA",
+          "line1": "Golden Gate National Recreation Area",
+          "type": "Physical",
+          "line3": "",
+          "line2": "Building 201, Fort Mason"
+        },
+        {
+          "postalCode": "94123-0022",
+          "city": "San Francisco",
+          "stateCode": "CA",
+          "line1": "Golden Gate National Recreation Area",
+          "type": "Mailing",
+          "line3": "",
+          "line2": "Building 201, Fort Mason"
+        }
+      ],
+      "images": [
+        {
+          "credit": "NPS photo/Will Elder",
+          "title": "Morning Fog at Crissy Field",
+          "altText": "White buildings with red roofs at Crissy Field with blue bay and Golden Gate Bridge and fog behind.",
+          "caption": "Visiting Crissy Field is an ever changing experience as the fog comes in and dissipates.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7FEE17-1DD8-B71B-0BA285725552D8E3.jpg"
+        },
+        {
+          "credit": "Will Elder",
+          "title": "Spring Flowers at Mori Point",
+          "altText": "Mori Point view north with yellow an blue flowers, the blue-green Pacific Ocean and Mt. Tamalpais.",
+          "caption": "View north from Mori Point showing abundant spring flowers and Mt. Tamalpais in the background.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7FE3B8-1DD8-B71B-0B91991C4D692710.jpg"
+        },
+        {
+          "credit": "Kirke Wrench",
+          "title": "Stinson Beach from Bolinas Ridge",
+          "altText": "View over the Pacific from Bolinas Ridge; Stinson Beach, Bolinas Lagoon and head in mid-ground.",
+          "caption": "Bolinas Ridge offers outstanding panaramas of the Pacific Coast, here including Stinson Beach and Lagoon.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7FE813-1DD8-B71B-0BE722D07B80503A.jpg"
+        },
+        {
+          "credit": "Kirke Wrench",
+          "title": "Storm over the Golden Gate",
+          "altText": "Orange Golden Gate Bridge with waves crashing in foreground and storm clouds behind.",
+          "caption": "The Golden Gate Bridge is an iconic attraction year-round.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7FE978-1DD8-B71B-0B5B04277B391AE4.jpg"
+        },
+        {
+          "credit": "NPS photo/Will Elder",
+          "title": "Marin Headlands and Rodeo Beach",
+          "altText": "View south with family on road in foreground and Rodeo Beach and cove in front of Point Bonita.",
+          "caption": "Trails in the Marin Headlands offer a fun and spectacular hiking experience for all.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7FEAD0-1DD8-B71B-0B27C7C76C4A0492.jpg"
+        },
+        {
+          "credit": "NPS photo/Will Elder",
+          "title": "Montgomery Street Barracks, Presidio of San Francisco",
+          "altText": "Row of red brick barracks with white-columned porches where infantry soldiers lived.",
+          "caption": "The Presidio offers an outdoor museum of military architecture over the centuries.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7FECA7-1DD8-B71B-0B0766C254B04EED.jpg"
+        },
+        {
+          "credit": "NPS photo/Will Elder",
+          "title": "Alcatraz Island from Crissy Field",
+          "altText": "Closeup shot of Alcatraz Island showing lighthouse and prison with yellow flowers on slope in front.",
+          "caption": "Visitors can learn about the complex layered history of Alcatraz Island.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C801934-1DD8-B71B-0B9C7A3F85A2B6E1.jpg"
+        }
+      ],
+      "weatherInfo": "Winter is characterized by sporadic rain and cool weather punctuated by brilliant sunshine. In winter the grass greens. Trees and flowers dormant through winter start blooming in late February or early March and last until May or June. By July, summer fog predominates in most coastal areas of the park. Grasses and plants have now turned to the golden brown and muted grays characteristic of California summer and fall. September and October skies are clear and sunshine is abundant everywhere in the park.",
+      "name": "Golden Gate",
+      "designation": "National Recreation Area"
+    },
+    {
+      "id": "F339067B-A588-4BF3-9D90-1C1BA1249203",
+      "url": "https://www.nps.gov/jomu/index.htm",
+      "fullName": "John Muir National Historic Site",
+      "parkCode": "jomu",
+      "description": "John Muir played many roles in his life, all of which helped him succeed in his role as an advocate for Nature. As America’s most famous naturalist and conservationist, Muir fought to protect the wild places he loved, places we can still visit today. Muir’s writings convinced the U.S. government to protect Yosemite, Sequoia, Grand Canyon and Mt. Rainier as national parks.",
+      "latitude": "37.9828422",
+      "longitude": "-122.1326097",
+      "latLong": "lat:37.9828422, long:-122.1326097",
+      "activities": [
+        {
+          "id": "B33DC9B6-0B7D-4322-BAD7-A13A34C584A3",
+          "name": "Guided Tours"
+        },
+        {
+          "id": "A0631906-9672-4583-91DE-113B93DB6B6E",
+          "name": "Self-Guided Tours - Walking"
+        },
+        {
+          "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+          "name": "Hiking"
+        },
+        {
+          "id": "DF4A35E0-7983-4A3E-BC47-F37B872B0F25",
+          "name": "Junior Ranger Program"
+        },
+        {
+          "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+          "name": "Wildlife Watching"
+        },
+        {
+          "id": "0C0D142F-06B5-4BE1-8B44-491B90F93DEB",
+          "name": "Park Film"
+        },
+        {
+          "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+          "name": "Museum Exhibits"
+        }
+      ],
+      "topics": [
+        {
+          "id": "69693007-2DF2-4EDE-BB3B-A25EBA72BDF5",
+          "name": "Architecture and Building"
+        },
+        {
+          "id": "12EA2B56-17EC-410A-A10D-BFBA87A0669B",
+          "name": "Explorers and Expeditions"
+        },
+        {
+          "id": "2B428F59-9148-40C1-B38E-130589F2540E",
+          "name": "Immigration"
+        },
+        {
+          "id": "F8C2FE93-DEB3-4B12-9A87-913E3E6B448D",
+          "name": "Natural Sounds"
+        },
+        {
+          "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+          "name": "Scenic Views"
+        },
+        {
+          "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+          "name": "Trails"
+        },
+        {
+          "id": "BA12B386-49EA-46B0-9121-FCACACC47538",
+          "name": "Watersheds"
+        }
+      ],
+      "states": "CA",
+      "contacts": {
+        "phoneNumbers": [
+          {
+            "phoneNumber": "9252288860",
+            "description": "",
+            "extension": "",
+            "type": "Voice"
+          }
+        ],
+        "emailAddresses": [
+          {
+            "description": "",
+            "emailAddress": "jomu_general_info@nps.gov"
+          }
+        ]
+      },
+      "entranceFees": [
+        {
+          "cost": "0.00",
+          "description": "The John Muir National Historic Site and Mount Wanda are free to visit.",
+          "title": "John Muir National Historic Site"
+        }
+      ],
+      "entrancePasses": [
+        {
+          "cost": "0.00",
+          "description": "Passes are not require and are not sold at this location.",
+          "title": "John Muir National Historic Site"
+        }
+      ],
+      "fees": [],
+      "directionsInfo": "Please visit our main website for specific directions to our park. You may call the John Muir Visitor Center for additional information.",
+      "directionsUrl": "http://www.nps.gov/jomu/planyourvisit/directions.htm",
+      "operatingHours": [
+        {
+          "exceptions": [
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2022-01-01",
+              "name": "New Years Day",
+              "endDate": "2022-01-01"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2021-11-25",
+              "name": "Thanksgiving",
+              "endDate": "2021-11-25"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2021-12-25",
+              "name": "Christmas Day",
+              "endDate": "2021-12-25"
+            }
+          ],
+          "description": "The main park site and visitor center hours of operation.",
+          "standardHours": {
+            "wednesday": "10:00AM - 5:00PM",
+            "monday": "10:00AM - 5:00PM",
+            "thursday": "10:00AM - 5:00PM",
+            "sunday": "10:00AM - 5:00PM",
+            "tuesday": "10:00AM - 5:00PM",
+            "friday": "10:00AM - 5:00PM",
+            "saturday": "10:00AM - 5:00PM"
+          },
+          "name": "John Muir National Historic Site"
+        }
+      ],
+      "addresses": [
+        {
+          "postalCode": "94553",
+          "city": "Martinez",
+          "stateCode": "CA",
+          "line1": "4202 Alhambra Ave",
+          "type": "Physical",
+          "line3": "",
+          "line2": ""
+        },
+        {
+          "postalCode": "94553",
+          "city": "Martinez",
+          "stateCode": "CA",
+          "line1": "4202 Alhambra Ave",
+          "type": "Mailing",
+          "line3": "",
+          "line2": ""
+        }
+      ],
+      "images": [
+        {
+          "credit": "NPS Photo",
+          "title": "John Muir Home at the John Muir National Historic Site",
+          "altText": "John Muir Home at the John Muir National Historic Site",
+          "caption": "John Muir Home at the John Muir National Historic Site",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C79DF6A-1DD8-B71B-0B64749528CB4952.jpg"
+        },
+        {
+          "credit": "NPS photo, Luther Bailey",
+          "title": "John Muir National Historic Site",
+          "altText": "A old copper sprayer sits against a tree-line background.",
+          "caption": "Historic Copper Sprayer.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/F7F8B4FB-0333-BE92-58C6A8113FA7D70E.jpg"
+        },
+        {
+          "credit": "NPS photo, Luther Bailey",
+          "title": "Mount Wanda",
+          "altText": "A natural foot path winds its way through hills and trees.",
+          "caption": "Mount Wanda walking trail.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/F80280BB-E7D5-E067-00A105D97A26603F.jpg"
+        },
+        {
+          "credit": "NPS photo, Luther Bailey",
+          "title": "John Muir National Historic Site",
+          "altText": "A tall wooden windmill and a small white shed surrounded by trees.",
+          "caption": "The old windmill.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/F80B41C9-CA24-ACF0-AE090EA8794AA1E5.jpg"
+        },
+        {
+          "credit": "NPS photo, Luther Bailey",
+          "title": "John Muir National Historic Site",
+          "altText": "Old books, a writing pen and inkwell, and paper sit on John Muir's original desk.",
+          "caption": "John Muir's desk in the \"Scribble Den\".",
+          "url": "https://www.nps.gov/common/uploads/structured_data/F8158989-E30C-A590-71F620A96879B472.jpg"
+        }
+      ],
+      "weatherInfo": "The Mediterranean climate of Martinez features hot, dry summers with lower temperatures near 60º F and upper temperatures near 100º F. The heat gives way to cool, rainy winters with lows near 45º F and highs near 75º F. Fall and spring can bring rain and temperatures from 55-80º F. March to April: wet/dry, 60-80º F May to September: very dry, 60-100º+ F October to November: dry/wet, 55-80º F December to February: wet, 45-75º F",
+      "name": "John Muir",
+      "designation": "National Historic Site"
+    }
+  ]
+}
